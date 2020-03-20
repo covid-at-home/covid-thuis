@@ -1,14 +1,14 @@
-## Level 5 -- System Overload
+## Niveau 5 -- Overbelasting van het systeem
 
-### What if the official channels are overloaded?
+### Wat als de officiële kanalen overbelast zijn?
 
-What we're unfortunately seeing in some areas is that the system becomes stressed to a breaking point if too many people become sick at the same time. Either you cannot get through, you are told the ambulance is going to take a while, hospitals are not taking new patients at all, or some hospitals prioritize treatment of certain groups of patients (such as the relatively young and healthy) over other groups (such as the elderly and / or people with existing illnesses).
+Wat we helaas op sommige gebieden zien, is dat het systeem tot een breekpunt komt als er te veel mensen tegelijk ziek worden. Of u komt er niet doorheen, u krijgt te horen dat de ambulance een tijdje gaat duren, ziekenhuizen nemen helemaal geen nieuwe patiënten mee, of sommige ziekenhuizen geven voorrang aan de behandeling van bepaalde groepen patiënten (zoals de relatief jonge en gezonde) boven andere groepen (zoals de ouderen en/of mensen met een bestaande ziekte).
 
-In the event that official means of getting medical help are unavailable, you might want to try to get hold of that doctor you know, the nurse down the street, anyone with medical training and / or experience. If that doesn't work, depending on the urgency, you might want to mobilize your and the patient's wider circle know you have a patient who is not doing well and that you cannot get help. Ask around for doctors or nurses. Use Facebook? If you have any spare time after that, organize your diary pages, making sure any doctor who has time for the patient can immediately see temperature records, etc. Try not to seem too worried around the patient, because at this point there likely isn't anything he or she is going to be able to do.
+In het geval dat officiële middelen om medische hulp te krijgen niet beschikbaar zijn, kunt u proberen om die dokter te bereiken die u kent, de verpleegkundige in de straat, iedereen met een medische opleiding en/of ervaring. Als dat niet werkt, afhankelijk van de urgentie, wil je misschien jouw en de patiënt in bredere kring mobiliseren om te weten dat je een patiënt hebt die het niet goed doet en dat je geen hulp kunt krijgen. Vraag naar artsen of verpleegkundigen. Facebook gebruiken? Als u daarna nog tijd over heeft, organiseer dan uw dagboekpagina's, zorg ervoor dat elke dokter die tijd heeft voor de patiënt onmiddellijk de temperatuurrecords kan zien, enz. Probeer niet te bezorgd te lijken rond de patiënt, want op dit punt is er waarschijnlijk niets wat hij of zij kan doen.
 
-If you do get through (by phone?) try to stay calm and help the doctor / hospital assess the situation quickly. 
+Als u toch doorkomt (via de telefoon?) probeer dan rustig te blijven en help de dokter/ziekenhuis de situatie snel in te schatten. 
 
-In cases where ambulances are the bottleneck and you feel you need one, you will have to make your own judgement whether you want to try and drive to the emergency room or wait and hope to get through. Plan which hospital you go to first and maybe have someone who is not driving with access to the internet, either in the car or on the speakerphone. Please drive safely in any case, the last thing you want is a sick patient in a car accident.
+In gevallen waar ambulances het knelpunt zijn en je voelt dat je die nodig hebt, zul je zelf moeten beoordelen of je naar de eerste hulp wilt rijden of dat je wilt wachten en hopen dat je erdoorheen komt. Plan welk ziekenhuis u het eerst gaat bezoeken en misschien heeft u iemand die niet met toegang tot het internet rijdt, in de auto of op de speakerphone. Rijd in ieder geval veilig, het laatste wat je wilt is een zieke patiënt in een auto-ongeluk.
 
 &nbsp;
 
@@ -16,4 +16,4 @@ In cases where ambulances are the bottleneck and you feel you need one, you will
 
 &nbsp;
 
-For now let's all hope our medical professionals can cope with the case load that is coming to them. Do your part in slowing the disease down as much as possible. Let's try to all still be there at the other end of this.
+Laten we nu maar hopen dat onze medische professionals het hoofd kunnen bieden aan de last die op hun schouders terecht komt. Doe je aandeel in het zoveel mogelijk vertragen van de ziekte. Laten we proberen om er allemaal nog steeds te zijn aan het andere einde van dit.

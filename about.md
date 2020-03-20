@@ -1,31 +1,30 @@
-  
-## About covid-at-home.info
+## Over covid-at-home.info
 
-This site started as a private initiative of Rop Gonggrijp and Vera Wilde who did much of the initial research and writing. Very soon, some of their friends started helping by proofreading, translating and providing helpful correction and additions. Let's crowdsource this guide. A German translation is almost done and other translations are being planned as we write this.
+Deze site is begonnen als een particulier initiatief van Rop Gonggrijp en Vera Wilde die veel van het eerste onderzoek en schrijven hebben gedaan. Al snel begonnen enkele van hun vrienden te helpen door het proeflezen, vertalen en het leveren van nuttige correcties en aanvullingen. Laten we deze gids eens doornemen. Een Duitse vertaling is bijna klaar en andere vertalingen worden gepland terwijl we dit schrijven.
 
-The goal of covid-at-home is to share (in still somehat concise form) what we have learned and provide no-nonsense practical information in dealing with the COVID-19 pandemic on an open and non-commercial basis. The main assumption is that at least in some places COVID-19 will at least temporarily swamp the healthcare system, so the more people feel some confidence in dealing with sick people at home, the fewer people will show up at doctor's offices and hospitals unnecessarily. At the same time, people still need to know when patients need medical attention. 
+Het doel van covid-at-home is om (nog steeds in een of andere beknopte vorm) te delen wat we hebben geleerd en no-nonsense praktische informatie te geven in de omgang met de COVID-19 pandemie op een open en niet-commerciële basis. De belangrijkste veronderstelling is dat COVID-19 in ieder geval op sommige plaatsen het zorgsysteem tijdelijk zal overspoelen, dus hoe meer mensen vertrouwen hebben in de omgang met zieke mensen thuis, hoe minder mensen onnodig op het kantoor van de dokter en in de ziekenhuizen zullen komen opdagen. Tegelijkertijd moeten mensen nog steeds weten wanneer patiënten medische hulp nodig hebben. 
 
-Want to help? Yay! We have a [whole section](/help) dedicated to that.
+Wil je helpen? Yay! We hebben daar een [hele sectie](/help) aan gewijd.
 
-### License
+### Licentie
 
-This site is published under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/) and no money is being made here in any way. There are no sponsors, and there is no opportunity to donate anything here except your time and energy.
+Deze site wordt gepubliceerd onder een [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/) en er wordt hier op geen enkele manier geld verdiend. Er zijn geen sponsors, en er is geen mogelijkheid om hier iets te doneren, behalve uw tijd en energie.
 
-### Thank you
+### Dank u.
 
-This site is better because we got help from (in alphabetical order):
+Deze site is beter omdat we hulp kregen van (in alfabetische volgorde):
 
-{% for person in site.data.thankyou.people %}
-* {{ person.name }}
+{% voor persoon in site.data.thankyou.people}
+* {persoon.naam }
 {% endfor %}
 
 ### Impressum
 
-(German law requires websites to list a publisher.)
+(De Duitse wet schrijft voor dat websites een uitgever moeten vermelden).
 
 Rop Gonggrijp & Vera Wilde<br>
-Linienstraße 127<br>
-10115 Berlin<br>
-Germany
+LinienstraÃŸe 127<br>
+10115 Berlijn<br>
+Duitsland
 
 e-mail: [team@covid-at-home.info](mailto:team@covid-at-home.info)

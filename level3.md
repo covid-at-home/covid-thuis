@@ -1,69 +1,69 @@
-## Level 3 -- Bedridden
+## Niveau 3 -- Bedlegerig
 
-All the good care in Level 2 has not worked and things are getting worse. Doesn't mean you did anything wrong, just keep going. Except now the patient is getting weaker. He or she is often too weak to get out of bed and may need extra encouragement to eat and drink. 
+Alle goede zorg in Niveau 2 heeft niet gewerkt en het wordt steeds erger. Betekent niet dat je iets verkeerds hebt gedaan, ga gewoon door. Behalve nu wordt de patiënt zwakker. Hij of zij is vaak te zwak om uit bed te komen en heeft wellicht extra aanmoediging nodig om te eten en te drinken. 
 
-### If the patient is you
+### Als de patiënt jou is
 
-This is when you start telling other people around you that you are really ill and are mostly in bed. Talk to someone you trust about how they may have to take care of you. Have this person or these people read this document. If you have people in your environment who have already had COVID-19 (something that will be increasingly common as time goes on), such people would naturally make the best caregivers as they presumably will be COVID-19-immune. Otherwise try to judge what is wisest in your circumstances. By all means do not wait with this until the very last moment, because if the disease progresses, you will get short of breath which inevitably will also affect your ability to talk and to think clearly.
+Dit is wanneer je andere mensen om je heen begint te vertellen dat je echt ziek bent en meestal in bed ligt. Praat met iemand die je vertrouwt over hoe ze misschien voor je moeten zorgen. Laat deze persoon of deze mensen dit document lezen. Als je mensen in je omgeving hebt die al COVID-19 hebben gehad (iets wat in de loop van de tijd steeds vaker zal voorkomen), dan zouden die mensen natuurlijk de beste zorgverleners zijn, omdat ze vermoedelijk COVID-19-immune zullen zijn. Probeer anders te beoordelen wat het verstandigst is in jouw omstandigheden. Wacht hiermee in ieder geval niet tot het allerlaatste moment, want als de ziekte voortschrijdt, kom je ademnood, wat onvermijdelijk ook je vermogen om te praten en helder te denken zal aantasten.
 
 ![](/images/sick-in-bed.png)
 
-### In any case
+### In ieder geval
 
-* Stay in bed. At this point rest is very important. The patient should sleep as much as possible. At least in the beginning, patients will still be able to get out of bed for limited amounts of time. Toilet, a quick rinse-off shower, weighing once a day (note in [diary](/images/covid-diary.pdf)). Put new sheets on the bed as often as possible and wash the old sheets at 60 degrees Celsius or warmer.
-* Ventilate the room as often as possible.
-* Drink more water! (more than 2 liters and less then 5 liters a day).
-* Try to eat vitamin-rich foods, but multi-vitamin drink is also ok.
-* Inhale more often.
+* Blijf in bed. Op dit punt is rust erg belangrijk. De patiënt moet zoveel mogelijk slapen. In het begin zullen de patiënten in ieder geval nog beperkte tijd uit bed kunnen komen. Toilet, een snelle afspoeldouche, met een gewicht van één keer per dag (notitie in [dagboek](/images/covid-diary.pdf)). Leg zo vaak mogelijk nieuwe lakens op het bed en was de oude lakens op 60 graden Celsius of warmer.
+* Ventileer de kamer zo vaak mogelijk.
+* Drink meer water! (meer dan 2 liter en minder dan 5 liter per dag).
+* Probeer vitaminerijk voedsel te eten, maar multi-vitamine drank is ook ok.
+* Adem vaker in.
 
-At this point, read ahead for all the signs that indicate Level 4. The purpose of care in Level 3 is also to monitor the patient more and more closely so as to catch early any signs that the patient is moving to Level 4. For instance: If the patient is not able to drink at least 2 liters of fluids per day, you should (kindly) insist. Dehydration is a medical condition, and without this daily bare minimum you're quickly in Level 4.
+Lees op dit punt vooruit voor alle tekenen die wijzen op niveau 4. Het doel van de zorg op Niveau 3 is ook om de patiënt steeds beter te kunnen volgen, zodat eventuele tekenen dat de patiënt zich naar Niveau 4 verplaatst, vroegtijdig worden opgevangen. Bijvoorbeeld: Als de patiënt niet in staat is om ten minste 2 liter vocht per dag te drinken, moet u (vriendelijk) aandringen. Uitdroging is een medische aandoening, en zonder dit dagelijkse minimum ben je snel op niveau 4.
 
-In most cases, however, the patient will improve after a few days or at most a week. Just stay with it. Once the patient gets a little better, care may be done by the patient him- or herself again. Make sure the illness diary and quarantine are kept up until the patient has been completely well for a while. If you have been caring for the patient, your own two-week self-quarantine period now begins.
+In de meeste gevallen zal de patiënt echter na een paar dagen of hooguit een week verbeteren. Blijf er gewoon bij. Als de patiënt eenmaal wat beter is, kan de zorg weer door de patiënt zelf worden gedaan. Zorg ervoor dat het ziektedagboek en de quarantaine worden bijgehouden totdat de patiënt zich een tijdje goed heeft gevoeld. Als je voor de patiënt hebt gezorgd, begint nu je eigen twee weken durende zelfquarantaineperiode.
 
-### Care work
+### Zorgwerk
 
-A large part of the work you are doing at this stage is care work, which may overlap with nursing but does not require specialized training. Remember that people who need help with basic self-care due to illness may be embarrassed to ask for or accept it. Be gracious. Everyone needs help sometimes. Think how to make the patient physically, mentally, and emotionally more comfortable and well; you might do this by asking yourself what you would need in their position, by watching for cues about discomfort (e.g., shivering, sweating), or by asking how you can help. 
+Een groot deel van het werk dat u in deze fase doet is zorgwerk, dat mogelijk overlapt met verpleging, maar waarvoor geen gespecialiseerde opleiding nodig is. Vergeet niet dat mensen die door ziekte hulp nodig hebben bij de basis zelfzorg, zich kunnen schamen om dit te vragen of te accepteren. Wees genadig. Iedereen heeft wel eens hulp nodig. Bedenk hoe je de patiënt fysiek, mentaal en emotioneel comfortabeler en beter kunt maken; je zou dit kunnen doen door je af te vragen wat je nodig zou hebben in hun positie, door te kijken naar aanwijzingen over ongemak (bijv. rillen, zweten), of door te vragen hoe je kunt helpen. 
 
-Some possibly useful behaviors include:
-* Getting at eye level and at a distance that is large enough for comfort but small enough that they do not have to strain speaking loudly to talk to you. 
-* Simple encouragement to drink and eat. (E.g., "Drink, honey.") 
-* If the patient is not drinking or eating adequately, offer alternatives. (E.g., if solid food is unappealing, what about soup, bouillon, or electrolyte solution? If hot drinks are unappealing, what about something cold, or vice-versa?) 
-* Checking that the patient is warm enough in the extremities (e.g., cold feet?) and at night. 
-* Reassure the patient that it is likely that he or she will make a full recovery. 
-* If breathing is labored, try breathing techniques (e.g., pursed lips or diaphragmatic breathing techniques) and positional changes (e.g., leaning your chest forward a little or putting your arms and head down on a table while sitting with feet flat on the floor; or sleeping on your side with a pillow between your knees, or on your back with your head elevated with a pillow or two). 
-* Keeping the illness diary (see below).
+Enkele mogelijk nuttige gedragingen zijn:
+* Op ooghoogte en op een afstand die groot genoeg is voor comfort, maar klein genoeg om niet hardop te hoeven praten. 
+* Eenvoudige aanmoediging om te drinken en te eten. (Bv., "Drink, honing.")
+* Als de patiënt niet voldoende drinkt of eet, bied dan alternatieven aan. (Bijvoorbeeld, als vast voedsel onaantrekkelijk is, hoe zit het dan met soep, bouillon of elektrolytoplossing? Als warme dranken onaantrekkelijk zijn, hoe zit het dan met iets kouds, of andersom?) 
+* Controleren of de patiënt warm genoeg is in de extremiteiten (bijv. koude voeten?) en 's nachts. 
+* Verzeker de patiënt ervan dat het waarschijnlijk is dat hij of zij volledig zal herstellen. 
+* Als de ademhaling moeizaam verloopt, probeer dan de ademhalingstechnieken (bijv. gezuiverde lippen of diafragma-ademhalingstechnieken) en positieveranderingen (bijv. een beetje naar voren leunen of je armen en hoofd op een tafel leggen terwijl je met je voeten plat op de grond zit; of op je zij slapen met een kussen tussen je knieën, of op je rug met je hoofd omhoog met een of twee kussens). 
+* Het bijhouden van het ziektedagboek (zie hieronder).
 
 
-### Illness diary
+#### Ziekteboekje
 
-As mentioned in the previous section, you might want to use this [printable form](/images/covid-diary.pdf), or make your own. 
+Zoals vermeld in de vorige sectie, kunt u dit [afdrukbaar formulier] (/images/covid-diary.pdf) gebruiken, of u kunt het zelf maken. 
 
-At this stage, watch out especially for and note symptoms that might suggest worsening. Read the next section for more detail, but these include dizziness or rapid heart rate (drink more and eat something if you can), rapid breathing (elevate head while lying down or lower it to the table while sitting up for easier breathing), and a blue tint to fingertips or lips (cyanosis - get fresh air, get warm, and check blood oxygenation if possible). Also consider using relaxation techniques to slow a rapid respiration or heart rate that may be partially due to anxiety: Listen to soothing music, check in with a friend electronically, or see if you can slow your breathing and bring down your heart rate by counting longer for forceful exhaling than for gentle inhaling. (Some people use 4-7-8 and others prefer 5-2-5 to try slowing down their inhale-hold-exhale patterns.)
+Let in dit stadium vooral op en let op de symptomen die op een verslechtering kunnen wijzen. Lees het volgende gedeelte voor meer details, maar deze omvatten duizeligheid of een snelle hartslag (drink meer en eet iets als je kunt), snelle ademhaling (verhef je hoofd terwijl je ligt of laat het zakken naar de tafel terwijl je zit om makkelijker te kunnen ademen), en een blauwe tint aan de vingertoppen of lippen (cyanose - krijg frisse lucht, word warm, en controleer de zuurstofvoorziening in het bloed als dat mogelijk is). Overweeg ook het gebruik van ontspanningstechnieken om een snelle ademhaling of hartslag te vertragen die gedeeltelijk te wijten kan zijn aan angst: Luister naar rustgevende muziek, check in met een vriend(in) elektronisch, of kijk of je je ademhaling kunt vertragen en je hartslag kunt verlagen door langer te tellen voor krachtig uitademen dan voor zacht inhaleren. (Sommige mensen gebruiken 4-7-8 en anderen geven de voorkeur aan 5-2-5 om te proberen hun inhalatie-hold-exhale patronen te vertragen).
 
-If you think the patient's condition might be worsening, your illness diary might expand to include the following: 
-- more frequent temperature readings
-- respiration rate (breaths per minute)
-- heart rate
-- onset of new confusion
+Als u denkt dat de toestand van de patiënt mogelijk verslechtert, kan uw ziektedagboek zich uitbreiden met het volgende: 
+- frequentere temperatuurmetingen
+- ademhalingssnelheid (ademhaling per minuut)
+- hartslag
+- begin van nieuwe verwarring
 
-If the patient's condition seems to be worsening, skip to the next section. 
+Als de toestand van de patiënt lijkt te verslechteren, ga dan naar het volgende deel. 
 
-### A typical day
+### Een typische dag
 
-At this stage, a typical day might look something like this: 
+In dit stadium ziet een typische dag er misschien zo uit: 
 
-You (or the patient) get up, weigh, and note weight in illness diary. You might also want to take your temperature first thing, before eating or drinking, especially if you are taking temperature orally - and note it in the illness diary, too. 
+U (of de patiënt) staat op, weegt en noteert het gewicht in het ziektedagboek. U wilt misschien ook eerst uw temperatuur opnemen, voordat u gaat eten of drinken, vooral als u de temperatuur oraal opneemt - en dit ook in het ziektedagboek noteren. 
 
-Then, start drinking fluids. Not too much caffeine or sugar. As much water and herbal tea as you like. Remember you want to drink at least 2 liters and up to 5 liters a day. 
+Begin dan met het drinken van vloeistoffen. Niet te veel cafeïne of suiker. Zoveel water en kruidenthee als je wilt. Vergeet niet dat u minstens 2 liter en maximaal 5 liter per dag wilt drinken. 
 
-Air out your home as much as possible, perhaps while the water for your morning tea or coffee is boiling.  If you have the energy (and enough sheets), consider changing your bed linens if they got sweaty / otherwise soiled. Next, have a quick shower if you're able. Staying clean can help you feel better mentally and emotionally, as well as physically. 
+Lucht uw huis zoveel mogelijk uit, misschien terwijl het water voor uw ochtendthee of koffie aan de kook is.  Als je de energie hebt (en genoeg lakens), overweeg dan om je beddengoed te verschonen als ze zweterig / anders vuil zijn geworden. Neem vervolgens een snelle douche als je kunt. Schoon blijven kan je helpen je mentaal en emotioneel beter te voelen, maar ook fysiek. 
 
-Eat a small, nutritious meal (piece of fresh fruit? handful of salted nuts?) - something that sounds good to you. This is also a good time to take paracetamol (also known as acetaminophen) for fever / pain if you need it, and note the dose and time in your illness diary. 
+Eet een kleine, voedzame maaltijd (stukje vers fruit? handjevol gezouten noten?) - dat klinkt goed. Dit is ook een goed moment om paracetamol (ook bekend als acetaminofen) in te nemen tegen koorts / pijn als je het nodig hebt, en de dosis en het tijdstip in je ziektedagboek te noteren. 
 
-If that was already enough exertion, take a rest. Nap whenever you can - sleep is crucial for healing. If you're not sleepy but need to rest, then try to rest sitting up to give your lungs a better chance to drain. If you're still upright, now is a good time to steam to help your sinuses / airways open and mucus to drain. 
+Als dat al genoeg inspanning was, neem dan even rust. Slaap wanneer je kunt - slaap is cruciaal voor de genezing. Als je niet slaperig bent, maar moet rusten, probeer dan zittend te rusten om je longen een betere kans te geven om te draineren. Als u nog steeds rechtop staat, is het nu een goed moment om te stomen om uw sinussen / luchtwegen te helpen openen en slijm af te voeren. 
 
-Keep drinking throughout the day. Some people find it helpful to empty and refill a liter bottle of water or a teapot that holds approximately a liter, so that it's easier to keep track of roughly how much you have drunk. This also makes it easier to keep water by the sofa or bed while you are resting. 
+Blijf de hele dag drinken. Sommige mensen vinden het nuttig om een literfles water of een theepot met een inhoud van ongeveer een liter te legen en bij te vullen, zodat het gemakkelijker is om bij te houden hoeveel je ongeveer hebt gedronken. Dit maakt het ook gemakkelijker om water bij de bank of het bed te houden terwijl u rust. 
 
-Throughout the day, check in with yourself about fatigue (sleep as much as possible), hunger (eat small, nutritious meals), thirst (drink whenever you feel like it), and temperature (take care to keep warm enough). If you feel up to it, and only if you feel up to it, move (e.g., go for a short walk as long as it's still permitted where you are, or get up and dance to a favorite song). 
+Check de hele dag bij jezelf in over vermoeidheid (slaap zoveel mogelijk), honger (eet kleine, voedzame maaltijden), dorst (drink wanneer je daar zin in hebt) en temperatuur (zorg dat je het warm genoeg houdt). Als je het aanvoelt, en alleen als je het aanvoelt, beweeg dan (bijvoorbeeld, ga een korte wandeling maken zolang het nog toegestaan is waar je bent, of sta op en dans op een favoriet liedje). 
 
-Finally, you want to be alert to signs that your condition may be worsening and you may need more care. So after taking basic care of yourself, then check in with other people around you who know that you are really ill. Let them know how you are doing - and if you need help, ask. Especially let someone know if you start experiencing more severe symptoms (see the next section). 
+Tot slot wilt u alert zijn op tekenen die erop wijzen dat uw toestand verslechtert en dat u misschien meer zorg nodig heeft. Dus na de basisverzorging van jezelf, check dan in met andere mensen om je heen die weten dat je echt ziek bent. Laat ze weten hoe het met je gaat - en als je hulp nodig hebt, vraag het dan. Laat het vooral weten als u ernstiger symptomen gaat vertonen (zie de volgende paragraaf). 

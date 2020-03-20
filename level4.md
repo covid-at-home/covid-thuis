@@ -1,57 +1,57 @@
-## Level 4 -- Professionals Take Over
+## Niveau 4 -- Professionals nemen het over
 
-As symptoms get worse and the patient deteriorates, the frequency with which measurements are taken should go up. At this point, your log should contain temperature, respiration, and heart rate every few hours.
+Naarmate de symptomen verergeren en de patiënt verslechtert, moet de frequentie waarmee de metingen worden verricht, toenemen. Op dit punt moet uw logboek om de paar uur de temperatuur, de ademhaling en de hartslag bevatten.
 
-You should interpret any of the following as a medical emergency:
+U moet een van de volgende zaken interpreteren als een medisch noodgeval:
 
-### Loss of consciousness
+### Verlies van bewustzijn
 
-There's different levels. When patient loses consciousness, make a note of whether the patient responds when you call their name (Voice), when you pinch the shoulder forcefully (Pain) or whether he/she does not respond at all (Unresponsive)
+Er zijn verschillende niveaus. Wanneer de patiënt het bewustzijn verliest, noteer dan of de patiënt reageert wanneer u zijn of haar naam roept (Stem), wanneer u de schouder krachtig knijpt (Pijn) of dat hij of zij helemaal niet reageert (Onresponsief).
 
-If loss of consciousness is brief, you might (if patient quickly recovers and is fully awake again!) encourage the patient to eat and drink a bit, and freshly ventilating the room. But loss of consciousness is serious, get help.
+Als het bewustzijnsverlies kortstondig is, kunt u (als de patiënt snel herstelt en weer helemaal wakker is!) de patiënt aanmoedigen om een beetje te eten en te drinken en de kamer fris te ventileren. Maar het verlies van het bewustzijn is ernstig, haal hulp.
 
-### Cognitive problems / confusion
+### Cognitieve problemen / verwarring
 
-You probably know the patient, so you should be able to tell without any fancy tests if and when he/she is not with it anymore. Sudden onset of confusion is trouble. Seek medical help.
+U kent de patiënt waarschijnlijk wel, dus u zou zonder enige vorm van onderzoek moeten kunnen zien of en wanneer hij/zij er niet meer bij is. Plotseling is het begin van de verwarring een probleem. Zoek medische hulp.
 
-### Too high or too low respiration rate
+### Te hoge of te lage ademhalingsfrequentie
 
-Count respirations per minute by holding your hand close enough to feel the patient's breath, watching his or her chest, and / or watching his or her abdomen, while holding a clock with a second hand or a digital watch / phone stopwatch. Respiration rate (RR) should be between 12 and 20 breaths per minute. 
+Tel de ademhalingen per minuut door uw hand dicht genoeg bij de patiënt te houden om zijn of haar adem te voelen, naar zijn of haar borst te kijken en/of naar zijn of haar buik te kijken, terwijl u een klok met een secondewijzer of een digitale horloge/telefoonstopwatch vasthoudt. De ademhalingssnelheid (RR) moet tussen 12 en 20 ademhalingen per minuut liggen. 
 
-Immediate home care for respiratory problems may include ventilating the patient's room and propping him or her up so that he or she can be in an upright but comfortably resting position. It is also a good idea to elevate the head of the bed for sleeping if possible, and there are some sleeping positions that can make breathing easier, too (see Level 3, Care work).
+Onmiddellijke thuiszorg bij ademhalingsproblemen kan bestaan uit het ventileren van de kamer van de patiënt en het stutten van hem of haar zodat hij of zij in een rechtopstaande maar comfortabele rustpositie kan zijn. Het is ook een goed idee om het hoofd van het bed omhoog te brengen om te slapen als dat mogelijk is, en er zijn enkele slaapposities die de ademhaling kunnen vergemakkelijken (zie Niveau 3, Verzorgingswerk).
 
 ![](/images/dyspnoe.png)
 
-If you or the patient are experiencing shortness of breath / labored breathing, seek medical advice. 
+Als u of de patiënt last heeft van kortademigheid/arbeidshygiëne, vraag dan medisch advies. 
 
-### Low oxygen saturation
+### Lage zuurstofverzadiging
 
-If you have an oxymeter (see [shopping page](/shopping)), any oxygen saturation lower than 95%  may indicate a respiratory problem. If at any stage the patient's **lips or fingertips turn blue** (or even mildly blue) (called cyanosis), call an ambulance! Anything less than 96%, get fresh air into the patient's room, and get him or her warm.
+Als u een oxymeter heeft (zie [winkelpagina](/shopping)), kan elke zuurstofverzadiging van minder dan 95% wijzen op een ademhalingsprobleem. Als op een bepaald moment de **lipjes of vingertoppen van de patiënt blauw** worden (of zelfs licht blauw) (cyanose genoemd), bel dan een ambulance! Als er iets minder dan 96% is, breng dan frisse lucht in de kamer van de patiënt en warm hem of haar op.
 
-![](/images/cyanosis.png)
+![](/beeld/cyanose.png)
 
-(Also call a doctor if the fingers, toes or lips turn less blue than this...)
+(Bel ook een dokter als de vingers, tenen of lippen minder blauw worden dan dit...)
 
-If the patient's skin gets a lacy purple overlay (also called livedo reticularis) like below (and that's not normal for the patient), that is also a reason to call for help.
+Als de huid van de patiënt een kanten paarse laag krijgt (ook wel livedo reticularis genoemd) zoals hieronder (en dat is niet normaal voor de patiënt), dan is dat ook een reden om hulp in te roepen.
 
 ![](/images/livedo-reticularis.png)
 
-### Very low blood pressure
+### Zeer lage bloeddruk
 
-Blood pressure lower than the bottom of the normal range (90 mmHg systolic, 60 mmHg diastolic) is cause for concern. Note that blood pressure comes as two numbers, the systolic and diastolic pressure. If you have a cheap automatic device it should tell you both these numbers. If you have a device, note the systolic pressure on the [diary form](/images/covid-diary.pdf).
+Bloeddruk lager dan de onderkant van het normale bereik (90 mmHg systolisch, 60 mmHg diastolisch) is reden tot bezorgdheid. Merk op dat de bloeddruk als twee getallen komt, de systolische en diastolische druk. Als je een goedkoop automatisch apparaat hebt, zou het je deze beide nummers moeten vertellen. Als u een apparaat hebt, noteer dan de systolische druk op het [dagboek formulier](/images/covid-diary.pdf).
 
-If you do not have a device to measure blood pressure or have trouble getting a reading, then try testing the patient's capillary refill time instead. Check by placing his or her fingers flat on a hard surface. Use your finger to press down on one of his or fingernails from the top. The fingernail should lose color. Check how long it takes the fingernail to turn its normal color again. It should take 1-2 seconds. Longer than that may indicate low blood pressure. It could also be a symptom of dehydration. 
+Als u geen apparaat hebt om de bloeddruk te meten of als u moeite hebt om een meting te krijgen, probeer dan de capillaire navultijd van de patiënt te testen. Controleer dit door zijn of haar vingers plat op een harde ondergrond te leggen. Gebruik je vinger om een van zijn of haar vingernagels van bovenaf aan te drukken. De vingernagel zou kleur moeten verliezen. Controleer hoe lang het duurt voordat de vingernagel weer zijn normale kleur heeft. Het zou 1-2 seconden moeten duren. Langer dan dat kan wijzen op een lage bloeddruk. Het kan ook een symptoom van uitdroging zijn. 
 
-Dehydration is a common cause of low blood pressure, so immediate home care may include encouraging the patient to eat and drink, especially foods or beverages containing essential electrolytes like potassium and sodium. Dizziness is a common symptom of low blood pressure, so the dizzy patient will want to be careful while changing positions (laying to sitting up, sitting to standing); fainting may occur. But really, once again, if things do not look right somehow - if blood pressure is very low, or if the patient normally has high blood pressure and it's looking much lower than their normal - again, get help.
+Uitdroging is een veel voorkomende oorzaak van lage bloeddruk, dus directe thuiszorg kan inhouden dat de patiënt wordt aangemoedigd om te eten en te drinken, met name voedsel of dranken die essentiële elektrolyten bevatten zoals kalium en natrium. Duizeligheid is een veelvoorkomend symptoom van lage bloeddruk, dus de duizelingwekkende patiënt zal voorzichtig willen zijn bij het veranderen van houding (liggend naar zittend, zittend naar staand); flauwvallen kan optreden. Maar echt, nogmaals, als de dingen er niet goed uitzien op een of andere manier - als de bloeddruk erg laag is, of als de patiënt normaal gesproken een hoge bloeddruk heeft en het ziet er veel lager uit dan normaal - haal dan weer hulp.
 
-### Too high or too low heart rate
+### Te hoge of te lage hartslag
 
-Heart rate is easier to measure than blood pressure, and usually high heart rate (above 100-110 beats per minute for an adult) goes with low blood pressure. Smaller people and children often have normally higher heart rates. High heart rate alone may not be cause for alarm, as it may indicate anxiety or dehydration. Relaxation techniques and drinking / eating something might be appropriate. But once again, values outside the normal range here should cue you to seek medical help immediately. This is especially true if you see rapid breathing along with low blood pressure or high heart rate and / or confusion. 
+De hartslag is gemakkelijker te meten dan de bloeddruk, en meestal gaat een hoge hartslag (meer dan 100-110 slagen per minuut voor een volwassene) samen met een lage bloeddruk. Kleinere mensen en kinderen hebben vaak een hogere hartslag. Een hoge hartslag alleen kan geen reden zijn voor alarm, omdat het kan duiden op angst of uitdroging. Ontspanningstechnieken en het drinken/eten van iets zou wel eens gepast kunnen zijn. Maar ook hier geldt weer dat waarden buiten het normale bereik u moeten aanzetten tot onmiddellijke medische hulp. Dit geldt vooral als u een snelle ademhaling ziet samen met een lage bloeddruk of een hoge hartslag en/of verwarring. 
 
-### Very high fever that comes (back) suddenly
+### Zeer hoge koorts die plotseling komt (terug)
 
-If you check temperatures regularly, you will want to be aware that the trend can reverse suddenly, even when the patient seemed to be doing better earlier. Regular measurements are important. A fever that is very high (> 39° Celsius) is a cue to seek medical help. So is a fever that goes away and then comes back suddenly. 
+Als u de temperatuur regelmatig controleert, zult u zich ervan bewust willen zijn dat de trend plotseling kan omslaan, zelfs als de patiënt het eerder beter leek te doen. Regelmatige metingen zijn belangrijk. Een zeer hoge koorts (> 39Â° Celsius) is een aanwijzing om medische hulp te zoeken. Zo is een koorts die weggaat en dan plotseling terugkomt. 
 
-### Call for help
+### Oproep voor hulp
 
-When any of the above symptoms occur, things are serious! If at all possible, this is the point where you should not be taking any decisions based on a guide from the internet anymore. Do not wait for things to get worse. Call a doctor, or call the emergency number and get the patient in an ambulance pronto. Stay calm and report the situation as it is. Your job is done: You have kept a patient out of the medical system while he or she was just sick. Now it's time for professionals to handle it. The data you have been gathering should hopefully help you convince the operator, ambulance people, and doctors that you are not merely panicking for no reason and will likely help get the patient the care he or she needs sooner.
+Wanneer een van de bovenstaande symptomen zich voordoet, zijn de dingen ernstig! Als het al mogelijk is, is dit het punt waarop u geen beslissingen meer moet nemen op basis van een gids van het internet. Wacht niet tot het nog erger wordt. Bel een dokter, of bel het noodnummer en haal de patiënt in een ambulance. Blijf kalm en rapporteer de situatie zoals ze is. Je werk is gedaan: Je hebt een patiënt uit het medisch systeem gehouden terwijl hij of zij gewoon ziek was. Nu is het tijd voor professionals om er mee om te gaan. De gegevens die u hebt verzameld moeten u hopelijk helpen om de operator, de ambulancemensen en de artsen ervan te overtuigen dat u niet zonder reden in paniek bent en dat u de patiënt waarschijnlijk eerder de zorg kunt geven die hij of zij nodig heeft.

@@ -1,66 +1,66 @@
-## Level 1 -- Healthy
+0## Niveau 1 -- Gezond
 
-### Don't Get Infected
+### Laat je niet besmetten.
 
-*(Or infect others should you happen to be asymptomatic / feel fine, but actually have COVID-19... Asymptomatic cases are still infectious.)* 
+*(Of anderen besmetten als je toevallig asymptomatisch bent / je goed voelt, maar eigenlijk COVID-19 hebt... Asymptomatische gevallen zijn nog steeds besmettelijk.)*
 
-Where possible, follow the instructions from authorities. This includes some of the by-now familiar guidelines for social distancing:
+Volg waar mogelijk de instructies van de autoriteiten. Dit omvat een aantal van de nu bekende richtlijnen voor sociale distantiëring:
 
-* Change your greetings. Instead of a handshake, hug, or kiss(es), try waving or bowing from a distance.
-* Your eyes, nose, and mouth are possible ways for the virus to enter your body. Wash your hands before touching your face. Don't touch your face while outside.
-* Wash your hands vigorously with soap and water as often as possible, including as soon as you come home and before eating. Use soap and water, not hand sanitizer, when possible: It is more [reliable](https://www.nytimes.com/2020/03/13/health/soap-coronavirus-handwashing-germs.html). 
-* Change your clothes when you get home as well. 
-* Regularly sterilize doorknobs, table surfaces, keyboards, and other places people frequently touch.
-* Cough and sneeze into your elbow, not into your hand or unprotected. 
-* Work from home when possible.
-* Use alternatives to in-person meetings (e.g., video or voice calls) when possible. 
-* Avoid crowds and unnecessary travel. If you must go shopping, do it when stores are less likely to be busy. If you must be in a crowd, try to keep your personal distance from others and move away from anyone who seems to be ill (e.g., is coughing or sneezing). 
-* Instead of taking public transit, walk or bike wherever you can. If you must take public transit, again keep your personal distance from others and move away from anyone who is ill. 
-* Instead of going to restaurants, cook and eat at home. 
-* Instead of having food or groceries delivered or delivering them to another person at home with direct contact, arrange to have them left or to leave them outside the door. 
-* Instead of meeting friends for a coffee or a drink, have a video-chat or coordinate a walk to the grocery store while keeping your [safe distance](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public) of at least 1.5 meters, or around five feet apart. 
-* Instead of exercising inside (e.g., at the gym), go outside for a walk or run if weather permits, while keeping your distance from other people. 
-* Follow any additional government / public health authority advice, including the eventual advice to stay indoors when that becomes applicable for where you are.
+* Verander uw groeten. In plaats van een handdruk, knuffel of kus(sen), probeer dan te zwaaien of te buigen van een afstand.
+* Je ogen, neus en mond zijn mogelijke manieren om het virus in je lichaam te krijgen. Was je handen voordat je je gezicht aanraakt. Raak je gezicht niet aan als je buiten bent.
+* Was uw handen zo vaak mogelijk krachtig met water en zeep, ook zodra u thuiskomt en voor het eten. Gebruik waar mogelijk zeep en water, geen handreiniger: Het is meer [betrouwbaar](https://www.nytimes.com/2020/03/13/health/soap-coronavirus-handwashing-germs.html). 
+* Kleed je om als je thuiskomt. 
+* Steriliseer regelmatig deurknoppen, tafeloppervlakken, toetsenborden en andere plaatsen die mensen vaak aanraken.
+* Hoest en niest in je elleboog, niet in je hand of onbeschermd. 
+* Werk van thuis uit als dat mogelijk is.
+* Gebruik waar mogelijk alternatieven voor persoonlijke ontmoetingen (bijv. video- of spraakoproepen). 
+* Vermijd drukte en onnodig reizen. Als u moet gaan winkelen, doe het dan als de winkels minder vaak druk zijn. Als u in een menigte moet zijn, probeer dan uw persoonlijke afstand tot anderen te bewaren en ga uit de buurt van iedereen die ziek lijkt te zijn (bijv. hoesten of niezen). 
+* In plaats van het nemen van openbaar vervoer, wandelen of fietsen waar je maar kunt. Als u openbaar vervoer moet nemen, houd dan opnieuw uw persoonlijke afstand tot anderen en ga uit de buurt van iedereen die ziek is. 
+* In plaats van naar restaurants te gaan, te koken en thuis te eten. 
+* In plaats van voedsel of kruidenierswaren te laten bezorgen of ze bij een andere persoon thuis met direct contact af te leveren, laat u ze achter of laat u ze buiten de deur staan. 
+* In plaats van vrienden te ontmoeten voor een koffie of een drankje, maak een video-chat of coördineer een wandeling naar de kruidenierswinkel terwijl u uw [veilige afstand](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public) van ten minste 1,5 meter, of ongeveer vijf meter uit elkaar houdt. 
+* In plaats van binnen te trainen (bijv. in de sportschool), kunt u, als het weer het toelaat, naar buiten gaan om te wandelen of te hardlopen, terwijl u afstand houdt van andere mensen. 
+* Volg het eventuele aanvullende advies van de overheid / volksgezondheidsinstantie, inclusief het eventuele advies om binnenshuis te blijven wanneer dat van toepassing wordt op de plaats waar u zich bevindt.
 
 
-### Stay Healthy
+#### Blijf gezond
 
 ![](/images/situps.png)
 
-On top of this, you can do things to stay as healthy as possible:
+Bovendien kun je dingen doen om zo gezond mogelijk te blijven:
 
-* Ventilate your rooms frequently.
-* Eat appropriate amounts of nutrient-rich, healthy food. Include at least some carbohydrates (e.g., bread, potatoes, pasta, rice, etc). Vitamins D ("the sunshine vitamin") and C can be especially helpful in preventing or mitigating the effects of respiratory infections. 
-* Drink enough fluids, mostly water.
-* Get regular exercise. If it is recommended or required to stay indoors, find ways to get moving at home: Dance to favorite songs with friends over video-chat, join online yoga or other exercise classes, or try simple core bodyweight exercises like push-ups, sit-ups, and squats combined with simple stationary aerobic exercises like jumping jacks, hula hooping, and skipping. 
-* If you smoke, stop smoking.
-* Avoid heavy drinking and other drug use, as alcohol and other drugs tend to suppress immune function.
-* If you want to do more after first covering these essentials, then consider [complementary medicine options](/complementary) to improve immunity, prevent and treat upper respiratory and / or viral infections, and the like. There are a number of possibly useful options, but keep in mind that the evidence so far is specific to different contexts. A lot of snake-oil salesmen are going to make a lot of money off of panic here without offering actual help. Don't fall for them. 
+* Ventileer uw kamers regelmatig.
+* Eet passende hoeveelheden voedsel dat rijk is aan voedingsstoffen en gezond is. Neem ten minste enkele koolhydraten op (bv. brood, aardappelen, pasta, rijst, enz.). Vitaminen D ("de zonnevitamine") en C kunnen vooral helpen bij het voorkomen of verzachten van de gevolgen van luchtweginfecties. 
+* Drink genoeg vloeistoffen, meestal water.
+* Regelmatige lichaamsbeweging. Als het aanbevolen of vereist is om binnenshuis te blijven, zoek dan naar manieren om thuis te bewegen: Dans op favoriete nummers met vrienden over video-chat, doe mee aan online yoga of andere oefenlessen, of probeer eenvoudige kern lichaamsgewicht oefeningen zoals push-ups, sit-ups, en squats in combinatie met eenvoudige stationaire aërobe oefeningen zoals jumping jacks, hoelahoep, en overslaan. 
+* Als je rookt, stop dan met roken.
+* Vermijd zwaar drankgebruik en ander drugsgebruik, aangezien alcohol en andere drugs de neiging hebben om de immuunfunctie te onderdrukken.
+* Als u meer wilt doen na de eerste behandeling van deze essentiële zaken, overweeg dan [aanvullende medicijnopties] (/complementair) om de immuniteit te verbeteren, de bovenste luchtwegen en / of virale infecties te voorkomen en te behandelen, en dergelijke. Er zijn een aantal mogelijk nuttige opties, maar houd er rekening mee dat het bewijs tot nu toe specifiek is voor verschillende contexten. Veel slangenverkopers gaan hier veel geld verdienen aan paniek zonder daadwerkelijk hulp te bieden. Val niet voor hen. 
 
-#### Psychological well-being
+#### Psychologisch welzijn
 
-This is going to be rough on all of us at times, and it is going to affect each and every one of us differently. refer to the page with [recommandations, hints and tips for psychological well-being](/psychological).
+Dit zal voor ons allemaal wel eens ruw zijn, en het zal ieder van ons verschillend beïnvloeden. verwijs naar de pagina met [aanbevelingen, hints en tips voor psychologisch welzijn](/psychologisch).
 
-### Prepare
+### Bereid je voor
 
-And on top of that, you can prepare so that you are familiar with the things that you will need to do when disease comes knocking. Read the rest of this guide. It is statistically unlikely anyone in your household will develop life-threatening complications, and hopefully there will be plenty of medical care for everyone. It doesn't hurt to be a tiny bit more ready for the worst-case scenario. But remember at the same time that there is no reason to panic. Take a deep breath and continue your regular life as much as possible.
+En bovendien kunt u zich voorbereiden, zodat u vertrouwd bent met de dingen die u moet doen als de ziekte komt aanwaaien. Lees de rest van deze gids. Het is statistisch gezien onwaarschijnlijk dat iemand in uw huishouden levensbedreigende complicaties zal ontwikkelen, en hopelijk zal er voor iedereen genoeg medische zorg zijn. Het kan geen kwaad om een klein beetje meer klaar te zijn voor het ergste scenario. Maar vergeet niet dat er geen reden tot paniek is. Haal diep adem en ga zo veel mogelijk door met je gewone leven.
 
-#### Get the things you need
+##### Krijg de dingen die je nodig hebt
 
-We made a [shopping page](/shopping) that lists handy things that may help you care for yourself and others.
+We hebben een [winkelpagina](/shopping) gemaakt waarin handige dingen staan die je kunnen helpen om voor jezelf en anderen te zorgen.
 
-### Existing Medical Conditions
+### Bestaande medische condities
 
-If you or your loved ones have existing medical conditions, now is the time to read up on how these conditions could be made worse by COVID-19 / pneumonia. You / they should make extra sure they have plenty of all of your / their necessary medications. Make sure you have all the information relevant for treatment (contact info of doctors, recent lab results, how much of which drugs the patient is taking). Assume for a moment that your regular doctor isn't there and you have to explain it all to a new doctor who has very little time. A recent timeline of visits, results, etc would be nice. What should you not forget? Write it down now!
+Als u of uw dierbaren bestaande medische aandoeningen hebben, is het nu tijd om te lezen hoe deze aandoeningen kunnen worden verergerd door COVID-19 / longontsteking. U / zij moeten er extra voor zorgen dat ze voldoende van al uw / hun benodigde medicijnen hebben. Zorg ervoor dat je alle informatie hebt die relevant is voor de behandeling (contactgegevens van artsen, recente labresultaten, hoeveel van welke medicijnen de patiënt gebruikt). Ga er even van uit dat uw gewone dokter er niet is en u moet het allemaal uitleggen aan een nieuwe dokter die heel weinig tijd heeft. Een recente tijdlijn van bezoeken, resultaten, enz. zou mooi zijn. Wat moet je niet vergeten? Schrijf het nu op!
 
-What sorts of existing medical conditions are especially likely to make you / your loved ones vulnerable to more severe COVID-19 problems?
-- Conditions that involve lungs / breathing problems (e.g., asthma, COPD, lung cancer).
-- Heart conditions, particularly chronic cardiovascular disease (e.g., hypertension, congestive heart failure, atrial fibrillation).
-- Conditions that involve compromised immune function, or that require taking immunosuppressant medications (e.g., lupus, arthritis, organ transplantation, some forms of cancer).
-- Other chronic hematologic, hepatic, metabolic, neurologic, neuromuscular, renal, or disorders (e.g., sickle cell anemia, diabetes, muscular dystrophy, kidney disease). 
+Welke bestaande medische aandoeningen maken u / uw dierbaren bijzonder kwetsbaar voor ernstigere COVID-19 problemen?
+- Aandoeningen waarbij sprake is van long/ademhalingsproblemen (bijv. astma, COPD, longkanker).
+- Hartaandoeningen, met name chronische hart- en vaatziekten (bijv. hypertensie, congestief hartfalen, atriumfibrilleren).
+- Aandoeningen waarbij sprake is van een verminderde immuunfunctie of waarbij immunosuppressieve medicijnen moeten worden gebruikt (bijv. lupus, artritis, orgaantransplantatie, sommige vormen van kanker).
+- Andere chronische hematologische, lever-, stofwisselings-, neurologische, neuromusculaire, nier- of andere aandoeningen (bv. sikkelcelanemie, diabetes, spierdystrofie, nieraandoeningen). 
 
-### Preventive Care
+### Preventieve zorg
 
-If the situation is still somewhat normal where you are, this may be good moment to briefly ask your doctor what (if anything) she/he thinks you should do now, and what you should do if you fall ill. If you have not yet been vaccinated for the seasonal flu, pneumococcal pneumonia, or meningococcal meningitis, now may also be a good time to ask your doctor if you are a candidate for those vaccines. Getting these vaccinations now if your doctor advises it could help prevent another infection from compounding problems that may be caused by COVID-19, should be you be infected later. 
+Als de situatie nog enigszins normaal is waar u zich bevindt, kan dit een goed moment zijn om uw arts kort te vragen wat hij/zij denkt dat u nu moet doen en wat u moet doen als u ziek wordt. Als u nog niet gevaccineerd bent voor de seizoensgriep, pneumokokkenpneumonie of meningokokkenhersenvliesontsteking, kan het nu ook een goed moment zijn om uw arts te vragen of u kandidaat bent voor die vaccins. Het krijgen van deze vaccinaties nu als uw arts adviseert het kan helpen voorkomen dat een andere infectie problemen die kunnen worden veroorzaakt door COVID-19, moet u later worden geïnfecteerd. 
 
-During pandemics, it is typical for childhood immunizations, maternal healthcare, and healthcare for chronic health conditions to get cancelled or delayed because doctors, nurses, hospitals, and the rest of the healthcare system may be overloaded, and because people may be afraid to go in to doctors' offices or hospitals for fear (sometimes rational) of being exposed to disease. In case your area is not yet greatly affected by COVID-19: Is there any normal childhood vaccination you want to be sure your child gets while he or she can? Any prenatal care or routine care for a chronic health condition you can get now instead of in a month? What about other conditions that are common ailments for you or your loved ones? Anything you can do to prepare to care for yourselves without normal medical care access in the coming months, in case it becomes harder to get time with doctors and nurses because they are overwhelmed? Do it now. 
+Tijdens pandemieën is het typisch voor kinderimmunisaties, gezondheidszorg voor moeders en gezondheidszorg voor chronische aandoeningen om te worden afgezegd of uitgesteld omdat artsen, verpleegkundigen, ziekenhuizen en de rest van het gezondheidszorgsysteem overbelast kunnen raken en omdat mensen bang kunnen zijn om naar de kantoren van artsen of ziekenhuizen te gaan uit angst (soms rationeel) om aan een ziekte te worden blootgesteld. Voor het geval dat uw gebied nog niet sterk wordt beïnvloed door COVID-19: Is er een normale kindervaccinatie waarvan u zeker wilt zijn dat uw kind die krijgt terwijl hij of zij dat kan? Eventuele prenatale zorg of routinezorg voor een chronische gezondheidstoestand die u nu kunt krijgen in plaats van in een maand? Hoe zit het met andere aandoeningen die voor u of uw dierbaren veel voorkomen? Alles wat je kunt doen om je voor te bereiden op de zorg voor jezelf zonder normale medische toegang in de komende maanden, voor het geval het moeilijker wordt om tijd te krijgen met artsen en verpleegkundigen omdat ze overweldigd zijn? Doe het nu. 

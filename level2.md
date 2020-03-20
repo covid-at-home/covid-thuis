@@ -1,76 +1,76 @@
-## Level 2 -- Emerging Symptoms
+## Niveau 2 -- Opkomende Symptomen
 
 ![](/images/sneezing-emoji.png)
 
-Notice if you suffer from any of the following first symptoms:
+Let op als u last heeft van een van de volgende eerste symptomen:
 
-* Fever
-* Fatigue
-* Sore throat
-* Dry (unproductive) cough
-* Coughing up slime
-* Joint / muscle pain
-* Shortness of breath
-* Lack of hunger
+* Koorts
+* Vermoeidheid
+* Keelpijn
+* Droge (onproductieve) hoest
+* Slijm ophoesten
+* Gewricht / spierpijn
+* Kortademigheid
+* Gebrek aan honger
 
-Initial symptoms may also include headache, chills, dizziness, nasal congestion, abdominal pain, diarrhea, nausea, and vomiting. Later in the infection, symptoms may include loss of smell and taste lasting for several days. 
+De eerste symptomen kunnen ook hoofdpijn, rillingen, duizeligheid, neusverstopping, buikpijn, diarree, misselijkheid en braken zijn. Later in de infectie kunnen de symptomen bestaan uit geur- en smaakverlies dat enkele dagen kan duren. 
 
-Is COVID-19 spread in the community where you live? Or have you been to an affected area or been around someone who was in an affected area? Then your symptoms could very well be COVID-19. But remember: In many areas, the odds that it's something else will still be greater.
+Is COVID-19 verspreid in de gemeenschap waar je woont? Of ben je in een getroffen gebied geweest of ben je in de buurt geweest van iemand die in een getroffen gebied was? Dan kunnen je symptomen heel goed COVID-19 zijn. Maar onthoud: Op veel gebieden zal de kans dat het iets anders is nog groter zijn.
 
-> Note: Fever is not subjective. You will need a thermometer (or two), and to keep track in a log of at least daily temperature. If you choose to take temperature internally (i.e., in the bottom / rectum), it will be more precise. Be sure you have enough wipes and alcohol to clean the thermometer after each use. If taking temperature orally, don’t eat or drink for 20 minutes beforehand. Either way, note the method in your log so healthcare personnel know which it is. (Around .7 degrees Celsius is often added to oral temperatures.) Here are some good instructions for [how to take an oral temperature](https://www.drugs.com/cg/how-to-take-an-oral-temperature.html).
+> Noot: Koorts is niet subjectief. U heeft een thermometer (of twee) nodig, en om de temperatuur in een logboek bij te houden van ten minste de dagtemperatuur. Als u ervoor kiest om de temperatuur intern (d.w.z. in de bodem / het rectum) te nemen, zal het nauwkeuriger zijn. Zorg ervoor dat je genoeg doekjes en alcohol hebt om de thermometer na elk gebruik te reinigen. Bij orale inname van de temperatuur moet u 20 minuten van tevoren niet eten of drinken. Hoe dan ook, noteer de methode in uw logboek zodat het gezondheidspersoneel weet welke het is. (Rond .7 graden Celsius wordt vaak toegevoegd aan de orale temperatuur.) Hier zijn enkele goede instructies voor [hoe je een orale temperatuur neemt](https://www.drugs.com/cg/how-to-take-an-oral-temperature.html).
 
-### Diagnosis
+### Diagnose
 
-There will be different policies surrounding testing for COVID-19 based on where you are and what stage of the pandemic your area is in. Check online, call official hotline numbers, follow official guidelines, and consider driving to a drive-through testing center if your area has one and the patient qualifies for testing. **You should not just show up at a doctor's office or a hospital unannounced if you just experience the first symptoms.**
+Er zal een verschillend beleid zijn voor het testen van COVID-19 op basis van waar u zich bevindt en in welk stadium van de pandemie uw gebied zich bevindt. Controleer online, bel de officiële hotlinenummers, volg de officiële richtlijnen en overweeg om naar een drive-through testcentrum te rijden als uw gebied er een heeft en de patiënt in aanmerking komt voor een test. **Je moet niet zomaar onaangekondigd bij een dokter of een ziekenhuis komen opdagen als je gewoon de eerste symptomen ervaart.**
 
-> Remember: Hospitals are bad places to be until you absolutely have to be there: You and / or the patient run the risk of getting additional infections that, when bacterial or fungal, are much more likely to be resistant to standard treatments due to the nature of the hospital environment. Also: Many hospitals are going to be overloaded.
+> Onthoud: Ziekenhuizen zijn slechte plekken om te zijn totdat je er absoluut moet zijn: U en/of de patiënt loopt het risico om extra infecties te krijgen die, wanneer het gaat om een bacteriële of schimmel, door de aard van de ziekenhuisomgeving veel meer kans hebben om resistent te zijn tegen standaardbehandelingen. Ook: Veel ziekenhuizen zullen overbelast raken.
 
-### Don't Panic - The Worried Well
+### Raak niet in paniek. De zorgelijke put...
 
-For most people, this will be as bad as it gets. You'll be a little sick, and then you'll get better. Done. At the same time, some people will not be so lucky. Even if only a relatively small percentage of those affected need medical care, this will put a serious strain on doctors, nurses and available medical resources. We can all help. The "Worried Well" are people who visit the doctor when they are not really (all that) sick, because they need reassurance. The coming weeks and months are not a good time for that. This website aims to give you more confidence and preparedness in caring for yourself, friends, and loved ones until you / they actually need professional help.
+Voor de meeste mensen zal dit zo slecht zijn als het maar kan. Je zult een beetje ziek zijn, en dan zul je beter worden. Gedaan. Tegelijkertijd zullen sommige mensen niet zo gelukkig zijn. Zelfs als slechts een relatief klein percentage van de getroffenen medische zorg nodig heeft, zal dit een ernstige belasting vormen voor artsen, verpleegkundigen en de beschikbare medische middelen. We kunnen allemaal helpen. De "Worried Well" zijn mensen die naar de dokter gaan als ze niet echt (al dat) ziek zijn, omdat ze gerustgesteld moeten worden. De komende weken en maanden zijn daar geen goed moment voor. Deze website heeft als doel om u meer vertrouwen en bereidheid te geven in de zorg voor uzelf, vrienden en geliefden totdat u / zij daadwerkelijk professionele hulp nodig heeft.
 
-### Self-quarantine
+### Zelfquarantaine
 
-Until tested and depending on where you are and where you have been, it may be prudent to assume the patient (you? a family member?) has COVID-19. That means self-quarantine at home. No more visitors, a sign on the door, and the patient should not go out unless there is no chance of meeting anyone. Different areas have different standards for what it means to self-quarantine when there are other people in the household. If possible, you will want to err on the side of safety and try to get everything delivered for 2 weeks. Things may change, as in some areas the virus will become so common (endemic) that many people will have had it. There is no telling at what point various authorities will stop testing every potential infection, and it will differ from region to region.
+Tot aan de test en afhankelijk van waar je bent en waar je bent geweest, kan het verstandig zijn om aan te nemen dat de patiënt (jij? een familielid?) COVID-19 heeft. Dat betekent zelfquarantaine thuis. Geen bezoekers meer, een bordje op de deur, en de patiënt mag niet naar buiten, tenzij er geen kans is om iemand te ontmoeten. Verschillende gebieden hebben verschillende normen voor wat het betekent om zichzelf in quarantaine te houden als er andere mensen in het huishouden zijn. Indien mogelijk zult u zich willen vergissen aan de kant van de veiligheid en proberen om alles 2 weken lang te laten bezorgen. Er kunnen dingen veranderen, want in sommige gebieden zal het virus zo gewoon (endemisch) worden dat veel mensen het hebben gehad. Het is niet te zeggen op welk moment verschillende autoriteiten zullen stoppen met het testen van elke mogelijke infectie, en het zal verschillen van regio tot regio.
 
-### Family, flatmates, etc.
+### Familie, huisgenoten, enz.
 
-Household members of people who are known or suspected to be infected should treat themselves as potentially also infected and self-quarantine too, while keeping the maximum practicable distance from the patient for as long as the patient can take care of him- or herself. This means being in different rooms, sleeping in different beds, eating separately, using different dishes and towels, and when possible, using different bathrooms. 
+Huishoudelijke leden van mensen waarvan bekend is of vermoed wordt dat ze geïnfecteerd zijn, moeten zichzelf behandelen als mogelijk ook geïnfecteerd en ook als zelfquarantaine, terwijl ze de maximaal haalbare afstand tot de patiënt moeten bewaren zolang de patiënt voor zichzelf kan zorgen. Dit betekent in verschillende kamers slapen in verschillende bedden, apart eten, gebruik maken van verschillende borden en handdoeken, en waar mogelijk, gebruik maken van verschillende badkamers. 
 
-Regularly clean all frequently touched surfaces with household bleach diluted with water: 10 ml / 2 tsp bleach with half a liter / 2 cups of water (carefully washing measurement tools before reuse). You can put that solution in a disused plant sprayer or cleaner spray bottle. You should give the spray a minute to work on surfaces before wiping it dry.
+Reinig regelmatig alle vaak aangeraakte oppervlakken met huishoudbleekmiddel verdund met water: 10 ml / 2 tl bleekmiddel met een halve liter / 2 koppen water (zorgvuldig wassen van meetgereedschap voor hergebruik). U kunt die oplossing in een niet meer gebruikte plantenspuit of een schonere spuitfles doen. U moet de spray een minuut de tijd geven om te werken op oppervlakken voordat u hem droogveegt.
 
-Now at the latest is time to think about Personal Protection Equipment (PPE). If you can get masks, wear one. Disposable gloves, long-sleeve protective gowns, and eye protection may also be appropriate. The [shopping page](/shopping) on this website contains some ideas for personal protection items, as well as important information on when and how to use them.
+Op zijn laatst is het tijd om na te denken over persoonlijke beschermingsmiddelen (PBM's). Als je maskers kunt krijgen, draag er dan een. Wegwerphandschoenen, beschermende kleding met lange mouwen en oogbescherming kunnen ook geschikt zijn. De [winkelpagina](/shopping) op deze website bevat enkele ideeën voor persoonlijke beschermingsmiddelen, evenals belangrijke informatie over wanneer en hoe deze te gebruiken.
 
-In most places, there will probably come a time when the number of cases skyrockets, many people have already had COVID-19, and authorities will no longer keep records of who has had it and who hasn't. The basis then remain the same: Try to protect older people and people with existing illnesses as much as possible, and try to minimize spread whenever you can, as best you can. Remember: The more we can slow down or altogether lessen the disease's spread, the better it is for everyone. Because by helping to slow or stop the spread, you can help lessen how overwhelmed the healthcare system is going to become. That in turn increases the proportion and number of people who need medical care, who are able to access it. This helps doctors and nurses save more lives. 
+Op de meeste plaatsen zal er waarschijnlijk een tijd komen dat het aantal gevallen omhoog schiet, veel mensen hebben al COVID-19 gehad, en de autoriteiten zullen niet langer bijhouden wie het heeft gehad en wie niet. De basis blijft dan hetzelfde: probeer ouderen en mensen met een bestaande ziekte zo goed mogelijk te beschermen en probeer de verspreiding zo veel mogelijk te beperken. Vergeet niet: Hoe meer we de verspreiding van de ziekte kunnen vertragen of verminderen, hoe beter het is voor iedereen. Want door te helpen de verspreiding te vertragen of te stoppen, kunt u helpen verminderen hoe overweldigd het gezondheidszorgsysteem gaat worden. Dat verhoogt op zijn beurt het aandeel en het aantal mensen dat medische zorg nodig heeft en er toegang toe heeft. Dit helpt artsen en verpleegkundigen om meer levens te redden. 
 
-### Diary
+### Dagboek
 
-When symptoms first start is the right time to start an illness diary. 
+Wanneer de symptomen voor het eerst beginnen is het juiste moment om een ziektedagboek te starten. 
 
-A few times a day, preferably at somewhat regular hours or points in your normal routines or rhythms (e.g., every morning before making coffee or tea), measure temperature, even if you don't feel like you have a fever (yet). Weigh once a day if possible. Also note respiratory and heart rates in breaths and beats per minute. It will get you used to doing these things, give you practise, and (if you start early) give you some idea what (more or less) healthy values for you look like. Not necessary, but extra points for blood pressure and oxygenation (Devices to measure those are cheap, see the [shopping page](/shopping)). 
+Een paar keer per dag, bij voorkeur op enigszins regelmatige uren of punten in uw normale routines of ritme (bijvoorbeeld elke ochtend voor het zetten van koffie of thee), meet u de temperatuur, zelfs als u (nog) niet het gevoel hebt dat u koorts hebt. Weeg indien mogelijk één keer per dag. Let ook op de ademhaling en de hartslag bij ademhaling en slagen per minuut. Het zal je laten wennen aan het doen van deze dingen, je laten oefenen en (als je vroeg begint) je een idee geven hoe (min of meer) gezond je er uit ziet. Niet noodzakelijk, maar extra punten voor bloeddruk en zuurstofvoorziening (Apparaten om die te meten zijn goedkoop, zie de [winkelpagina](/shopping)). 
 
-Then write down any symptoms the patient has. If he or she is in pain, where and when is the pain, and how bad on a scale of 0 (no pain) to 10 (worst pain imaginable)? How bad is the cough? What color if there is mucus being produced? Be sure to note what medication, if any, the patient takes. 
+Schrijf dan alle symptomen op die de patiënt heeft. Als hij of zij pijn heeft, waar en wanneer is de pijn, en hoe erg op een schaal van 0 (geen pijn) tot 10 (slechtst denkbare pijn)? Hoe erg is de hoest? Welke kleur als er slijm wordt geproduceerd? Let op welke medicijnen de patiënt eventueel gebruikt. 
 
-Paracetamol (also known as acetaminophen) is a good choice for fever and pain suppression. Keeping an illness diary will also help you to keep track of how much you've taken, when, to ensure you treat fever adequately without taking more than the recommended amount in a 24-hour period.
+Paracetamol (ook bekend als acetaminofen) is een goede keuze voor koorts- en pijnbestrijding. Het bijhouden van een ziektedagboek zal u ook helpen om bij te houden hoeveel u wanneer heeft genomen, om ervoor te zorgen dat u de koorts adequaat behandelt zonder meer dan de aanbevolen hoeveelheid in een periode van 24 uur in te nemen.
 
-[![](/images/diary-small-slanted.png)](/diary)
+[![](/images/diary-small-slanted.png)](/dagboek)
 
-#### Printable illness diary
+##### Afdrukbaar ziektedagboek
 
-We made a **[printable illness diary](/diary)** that you can use to write down all the information you collect when you take temperature, breathing rate, etc. Please check out the form and our webpage about it via the link above.
+We hebben een **[afdrukbaar ziektedagboek](/dagboek)** gemaakt dat u kunt gebruiken om alle informatie op te schrijven die u verzamelt bij het opnemen van de temperatuur, de ademhalingssnelheid, enz. Bekijk het formulier en onze webpagina hierover via bovenstaande link.
 
-### Get healthy again
+### Word weer gezond.
 
-Treat pain and fever with over-the-counter medication at the recommended safe dosages. Use paracetamol (also known as acetaminophen) if you can. Questions are emerging surrounding the safety of ibuprofen / non-steroidal anti-inflammatory medications as well as corticosteroids / steroidal anti-inflammatory medications, in case of coronavirus. If possible, avoid their use if you have symptoms. An additional safe way to treat fever is to take a bath or shower. The water temperature should be comfortable, not cold, because shivering can raise your core body temperature - and the idea is to lower it. When you get out of the bath or shower, the leftover water evaporating like sweat from your skin can help lower your temperature. 
+Behandel pijn en koorts met vrij verkrijgbare medicijnen in de aanbevolen veilige doseringen. Gebruik paracetamol (ook bekend als acetaminofen) als je kunt. Er ontstaan vragen over de veiligheid van ibuprofen / niet-steroïdale anti-inflammatoire geneesmiddelen en corticosteroïden / steroïdale anti-inflammatoire geneesmiddelen, in het geval van coronavirus. Vermijd indien mogelijk het gebruik ervan als u symptomen heeft. Een extra veilige manier om koorts te behandelen is het nemen van een bad of douche. De watertemperatuur moet comfortabel zijn, niet koud, want door te bibberen kan de kerntemperatuur van je lichaam stijgen - en het idee is om die te verlagen. Als je uit bad of onder de douche komt, kan het overgebleven water dat als zweet van je huid verdampt, je temperatuur helpen verlagen. 
 
-Try to keep eating nutritious food. Nothing too heavy, not too much at the same time. Lots of vitamins and fresh produce. Adequate carbohydrates (potatoes, rice, pasta, etc). Inhale steam 3+ times a day. Go for a daily walk when possible, while keeping distance from other people. If your throat is irritated, avoid acidic drinks (such as soda and juice) as they can be further irritating; water and teas are better choices then. 
+Probeer voedzaam voedsel te blijven eten. Niets te zwaar, niet te veel tegelijk. Veel vitaminen en verse producten. Voldoende koolhydraten (aardappelen, rijst, pasta, enz.). Inademen van stoom 3+ keer per dag. Ga voor een dagelijkse wandeling als dat mogelijk is, terwijl u afstand houdt van andere mensen. Als je keel geïrriteerd is, vermijd dan zure dranken (zoals frisdrank en sap) omdat deze verder irriterend kunnen zijn; water en thee zijn dan betere keuzes. 
 
-Notice the color and amount of your urine. If it is dark (more colored than clear), or there is not a lot, drink more water. It is very important to avoid and treat dehydration by drinking enough, even though it can be hard to drink enough when you have a fever / are sweating a lot, and are suffering from fatigue and discomfort due to illness. If you are struggling to drink enough and beginning to show signs of dehydration like darker urine, you might also try eating foods containing more water (e.g., cucumber, oranges, apples), sipping on boullion or soup, or setting a small goal for yourself (e.g., every time you get up, drink a glass of water). 
+Let op de kleur en de hoeveelheid van uw urine. Als het donker is (meer gekleurd dan helder), of er is niet veel, drink dan meer water. Het is zeer belangrijk om uitdroging te voorkomen en te behandelen door voldoende te drinken, ook al kan het moeilijk zijn om genoeg te drinken als je koorts hebt / veel zweet, en last hebt van vermoeidheid en ongemak als gevolg van ziekte. Als je moeite hebt om genoeg te drinken en tekenen van uitdroging begint te vertonen, zoals donkere urine, kun je ook proberen voedsel te eten dat meer water bevat (bijv. komkommer, sinaasappels, appels), te nippen aan boullion of soep, of een klein doel voor jezelf te stellen (bijv. elke keer als je opstaat, een glas water drinken). 
 
-Coughing can be an important, healthy effort on the part of the body to clear the lungs of fluid so you can breathe easier. Do not suppress a productive cough all the time / just because you don't want to be coughing. However, if you want to try to suppress your cough enough to get a good night's sleep so your body can better heal itself, then over-the-counter cough medications, herbal teas such as anise / chamomile, cocoa, and lozenges can help. Some over-the-counter cough medications contain ingredients like guaifenesin or NAC, generally considered safe mucolytics that relieve coughing by helping your body get rid of mucus (usually by making it thinner and so easier to cough up); your pharmacist can help you find one that's right for you. 
+Hoesten kan een belangrijke, gezonde inspanning van het lichaam zijn om de longen te ontdoen van vocht, zodat u gemakkelijker kunt ademen. Onderdruk een productieve hoest niet de hele tijd / alleen maar omdat je niet wilt hoesten. Echter, als u wilt proberen om uw hoest te onderdrukken genoeg om een goede nachtrust te krijgen, zodat uw lichaam kan beter zichzelf te genezen, dan over-the-counter hoest medicijnen, kruidenthee zoals anijs / kamille, cacao, en tabletten kan helpen. Sommige over-the-counter hoest medicijnen bevatten ingrediënten zoals guaifenesine of NAC, over het algemeen beschouwd als veilige mucolytica die het hoesten verlichten door je lichaam te helpen zich te ontdoen van slijm (meestal door het dunner te maken en zo makkelijker op te hoesten); je apotheker kan je helpen om er een te vinden die voor jou geschikt is. 
 
-### Feeling better?
+### Voel je je al beter?
 
-Before you break your quarantine, health authorities may want to (re)test you to see you are really not contagious anymore. But maybe the number of cases is already so high that people will have to make their own decisions. Err on the side of safety and try to stay home for a little longer than officially indicated. The [World Health Organization recommendation](https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---16-march-2020) is to continue isolation for at least two weeks after symptoms disappear, even if you are no longer feeling sick. 
+Voordat je je quarantaine breekt, willen de gezondheidsautoriteiten je misschien (opnieuw) testen om te zien dat je echt niet meer besmettelijk bent. Maar misschien is het aantal gevallen al zo hoog dat mensen hun eigen beslissingen zullen moeten nemen. Err aan de kant van de veiligheid en probeer iets langer thuis te blijven dan officieel is aangegeven. De [aanbeveling van de Wereldgezondheidsorganisatie](https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---16-march-2020) is om na het verdwijnen van de symptomen het isolement nog minstens twee weken voort te zetten, zelfs als je je niet meer ziek voelt. 
 
-If you managed to get tested, yay! You now know that your body (presumably, keep watching the latest science on this) has built immunity. Which means that this thing is over for you, and also that you are a more logical choice to help your family and friends when they get sick. Depending on what state the world is in, you may want to inform your employer and others that might depend on you that you've had it, so they know you're immune.
+Als het je gelukt is om je te laten testen, yay! Je weet nu dat je lichaam (vermoedelijk, blijf kijken naar de laatste wetenschap hierover) immuniteit heeft opgebouwd. Wat betekent dat dit ding voorbij is voor u, en ook dat u een meer logische keuze bent om uw familie en vrienden te helpen als ze ziek worden. Afhankelijk van de staat waarin de wereld verkeert, wil je misschien je werkgever en anderen die van jou afhankelijk zijn, informeren dat je het hebt gehad, zodat ze weten dat je immuun bent.
