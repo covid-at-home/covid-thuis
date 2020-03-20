@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
-title: Covid @ Home
-description: A collaborative guide to COVID-19 care
-url: https://covid-at-home.info
-slug: covid-at-home
-goatcounter: covid_at_home
+title: COVID thuis
+description: Thuis voor een COVID patient zorgen
+url: https://covid-thuis.info
+slug: covid-thuis
+goatcounter: covid-thuis

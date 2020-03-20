@@ -1,13 +1,13 @@
 items:
 
-- title: Main Page
+- title: Hoofdpagina
   url: /
   
-- title: Shopping
+- title: Boodschappenlijstje
   url: /shopping
 
-- title: I can help!
+- title: Ik wil helpen!
   url: /help
             
-- title: About
+- title: Over ons
   url: /about
