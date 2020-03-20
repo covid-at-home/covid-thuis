@@ -1,36 +1,35 @@
-This website was made as a result of the COVID-19 pandemic, but much of the advice may be applicable in other situations. Much of what's discussed here may be common sense to some, but we felt it's still good to have some checklists and advice for various stages of illness in one place. While we consulted with nurses and doctors on much of this advice, most of this text was written by the non-medically trained, trying to puzzle together what makes sense in this new situation. 
+Deze website is gemaakt naar aanleiding van de COVID-19 pandemie, maar veel van de adviezen kunnen ook in andere situaties van toepassing zijn. Veel van wat hier besproken is, is voor sommigen misschien gezond verstand, maar we vonden het toch goed om wat checklists en adviezen voor verschillende stadia van de ziekte op één plek te hebben. Terwijl we met verpleegkundigen en artsen hebben overlegd over een groot deel van dit advies, is het grootste deel van deze tekst geschreven door de niet-medisch geschoolden, in een poging om samen te puzzelen wat zin heeft in deze nieuwe situatie. 
 
-To be clear: **LISTEN TO LOCAL HEALTH AUTHORITIES, DOCTORS AND NURSES** when given the choice between that and something you found on the internet.
+Voor alle duidelijkheid: **LIJST NAAR LOKALE GEZONDHEID, DOCTOREN EN KEUZEN** wanneer u de keuze krijgt tussen dat en iets wat u op het internet hebt gevonden.
 
-As we started writing for this site in Berlin, Germany in the second week of March 2020, much about the virus was still unclear, but numbers of infected and dead were rising steadily, most recently in Italy. While it is not now - nor is it ever - a good time to panic, we do think it is now time to think and prepare.
+Toen we in de tweede week van maart 2020 in Berlijn, Duitsland, begonnen te schrijven voor deze site, was veel over het virus nog onduidelijk, maar het aantal besmettingen en doden nam gestaag toe, het meest recentelijk in Italië. Hoewel het nu niet - en ook nooit - een goed moment is om in paniek te raken, denken we wel dat het nu tijd is om na te denken en ons voor te bereiden.
 
 ![](/images/virus.png)
 
-This guide is based on the assumption that in the coming months, more people than usual will either become ill or have ill people in their lives. Let's all hope for the best, but we're going to assume that doctors and hospitals are going to be very busy if not overloaded. We have to confront the possibility that some of the people who would normally be cared for under medical supervision might need to be cared for at home. We hope some of the information here will give you some confidence in dealing with this disease, which in and by itself will reduce the load on doctors and nurses who, from the looks of it, will be quite busy in weeks and months to come. At the same time, we hope to give you information that helps you tell when it is time to get professional medical help. Getting large amounts of people to get that balance right may make all the difference in the time to come. 
+Deze gids is gebaseerd op de veronderstelling dat in de komende maanden meer mensen dan normaal ziek worden of ziek worden. Laten we allemaal hopen op het beste, maar we gaan ervan uit dat artsen en ziekenhuizen het erg druk zullen hebben, zo niet overbelast. We moeten de mogelijkheid onder ogen zien dat sommige mensen die normaal gesproken onder medisch toezicht worden verzorgd, thuis moeten worden verzorgd. We hopen dat een deel van de informatie hier u enig vertrouwen geeft in de aanpak van deze ziekte, die op zichzelf al de belasting voor artsen en verpleegkundigen zal verminderen, die het, zo te zien, de komende weken en maanden behoorlijk druk zullen hebben. Tegelijkertijd hopen we u informatie te geven die u helpt te vertellen wanneer het tijd is om professionele medische hulp in te schakelen. Het kan de komende tijd het verschil maken om grote hoeveelheden mensen in staat te stellen om dat evenwicht te bereiken. 
 
-This guide contains general advice that should be applicable in many places. We may add information that is specific to certain countries or regions, but you should keep your eyes open for more specific information from other credible sources that is more local to where you are. 
+Deze gids bevat algemene adviezen die op veel plaatsen van toepassing zouden moeten zijn. We kunnen informatie toevoegen die specifiek is voor bepaalde landen of regio's, maar u moet uw ogen open houden voor meer specifieke informatie uit andere geloofwaardige bronnen die meer lokaal zijn dan waar u zich bevindt. 
 
-Some of the authors of this website are not known as great fans of government and authority, but at this point trust in the public health authorities is vital. Where there are discrepancies, trust reputable sources such as:
-* [World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) (International)
-* [Centers for Disease Control](https://www.cdc.gov/coronavirus/2019-ncov/index.html) (USA)
-* [Robert Koch Institute](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html) (Germany)
-* [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu/en) (EU) 
+Sommige van de auteurs van deze website staan niet bekend als grote fans van de overheid en het gezag, maar op dit punt is het vertrouwen in de volksgezondheidsinstanties van vitaal belang. Als er discrepanties zijn, vertrouw dan op gerenommeerde bronnen zoals:
+* [Wereldgezondheidsorganisatie](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) (Internationaal)
+* [Centers for Disease Control](https://www.cdc.gov/coronavirus/2019-ncov/index.html) (VS)
+* [Robert Koch Instituut](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html) (Duitsland)
+* [Europees Centrum voor ziektepreventie en -bestrijding](https://www.ecdc.europa.eu/en) (EU)
 
-### Know the Facts: 
+### Ken de feiten: 
 
-  * COVID-19 is real. 
-  * It's a virus from nature that mutated to infect human hosts after starting in animals. 
-  * It seems to be about twice as infectious and to cause far more pneumonia, other serious disease and deaths than the seasonal influenza virus (flu). It's also worse than the flu because the world population so far lacks immunity. New diseases are more dangerous, because their infection rates can grow incredibly rapidly (even having exponential growth). Such rapid transmission of a new disease can swiftly overwhelm even outstanding health-care systems, making it impossible for everyone who needs care to access it - and in turn contributing to more severe disease and death. 
-  * Containment of COVID-19 is the best chance we have to save a large number of lives. Containment requires widespread cooperation with and implementation of measures like accessible testing and social distancing (see Level 1 below).  
-  * For these reasons, it is time now to change our way of life (for now) to address the very real threat this pandemic poses to our world. 
+  * COVID-19 is echt. 
+  * Het is een virus uit de natuur dat gemuteerd is om menselijke gastheren te besmetten na het starten in dieren. 
+  * Het lijkt ongeveer twee keer zo besmettelijk te zijn en veel meer longontsteking, andere ernstige ziekten en sterfgevallen te veroorzaken dan het seizoensgebonden influenzavirus (griep). Het is ook erger dan de griep omdat de wereldbevolking tot nu toe geen immuniteit heeft. Nieuwe ziekten zijn gevaarlijker, omdat hun besmettingsgraad ongelooflijk snel kan toenemen (zelfs met een exponentiële groei). Een dergelijke snelle overdracht van een nieuwe ziekte kan zelfs uitstekende gezondheidszorgstelsels snel overweldigen, waardoor het voor iedereen die zorg nodig heeft onmogelijk wordt om er toegang toe te krijgen - wat op zijn beurt weer bijdraagt aan ernstigere ziekten en sterfgevallen. 
+  * Insluiting van COVID-19 is de beste kans die we hebben om een groot aantal levens te redden. Insluiting vereist brede samenwerking met en uitvoering van maatregelen zoals toegankelijke tests en sociale distantie (zie niveau 1 hieronder).  
+  * Om deze redenen is het nu tijd om onze manier van leven (voorlopig) te veranderen om de zeer reële dreiging van deze pandemie voor onze wereld aan te pakken. 
 
-Remember that there is no difference in potential infectiousness between friends and strangers. There is no race, ethnic group, or nationality that is innately more likely to get or transmit the virus than another. Try to help others when you can without being in contact with large groups of people unnecessarily. There are obvious trade-offs here that everyone has to weigh for themselves. Some people will need to have more contact with other people than others. Slowing the spread is never absolute, but over all of society, our efforts still work when everyone does what they can, within their limits.
+Vergeet niet dat er geen verschil is in potentiële besmettelijkheid tussen vrienden en vreemden. Er is geen ras, etnische groep of nationaliteit die van nature meer kans heeft om het virus te krijgen of over te dragen dan een ander. Probeer anderen te helpen als je dat kunt zonder onnodig in contact te komen met grote groepen mensen. Er zijn hier duidelijke compromissen die iedereen voor zichzelf moet afwegen. Sommige mensen zullen meer contact moeten hebben met andere mensen dan anderen. Het afremmen van de verspreiding is nooit absoluut, maar over de hele samenleving heen werken onze inspanningen nog steeds als iedereen doet wat hij of zij kan, binnen zijn of haar grenzen.
 
 
-*At this point the site uses metric units in many places, although sometimes both metric and imperial units are provided. We hope to offer metric and imperial versions of everything in the next few days.*
+*Op dit punt gebruikt de site op veel plaatsen metrische eenheden, hoewel er soms zowel metrische als keizerlijke eenheden zijn voorzien. We hopen de komende dagen metrische en keizerlijke versies van alles aan te bieden.*
 
-> **YOU CAN HELP MAKE THIS SITE BETTER.** *If you see something that could be better, please [click here](https://github.com/covid-at-home/covid-at-home.github.io/issues/new) to file an issue. As you can see there the backend of this website is on Github, so if you know that environment you can probably think of other ways to help. To be successful, this will need to be an expanding collaborative effort.*
-
+*Als u iets ziet dat beter zou kunnen, klik dan [hier](https://github.com/covid-at-home/covid-at-home.github.io/issues/new) om een probleem op te lossen. Zoals je daar kunt zien staat de achterkant van deze website op Github, dus als je die omgeving kent kun je waarschijnlijk andere manieren bedenken om te helpen. Om succesvol te zijn, zal dit een groeiende samenwerking moeten zijn.*
 &nbsp; 
 
 {% include_relative level1.md %}
