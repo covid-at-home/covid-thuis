@@ -1,4 +1,4 @@
-### De website die deze github repository is de editing backeind-tot-eind is live bij
+### Deze github repository is de editing back-end voor de website die live is op
 
 # [covid-thuis.info](https://www.covid-thuis.info)
 
