@@ -1,8 +1,8 @@
 ## Over covid-at-home.info
 
-Deze site is begonnen als een particulier initiatief van Rop Gonggrijp en Vera Wilde die veel van het eerste onderzoek hebben gedaan en de eerste teksten hebben geschreven. Al snel hielpen een aantal vrienden door het proeflezen, vertalen en het leveren van nuttige correcties en aanvullingen. Laten we deze gids crowdsourcen en met zijn allen creëren. Een Duitse vertaling is bijna klaar en andere vertalingen worden terwijl we dit schrijven gepland.
+Deze site is begonnen als een particulier initiatief van Rop Gonggrijp en Vera Wilde die veel van het eerste onderzoek hebben gedaan en de eerste teksten hebben geschreven. Al snel hielpen een aantal vrienden door het proeflezen, vertalen en het leveren van nuttige correcties en aanvullingen. Het wordt steeds meer een gecrowdsourcde gids die we met z'n allen maken.
 
-Het doel van covid-at-home is om (in beknopte vorm) te delen wat we hebben geleerd en no-nonsense praktische informatie te geven in de omgang met de COVID-19 pandemie op een open en niet-commerciële basis. De belangrijkste veronderstelling is dat COVID-19 in ieder geval op sommige plaatsen het zorgsysteem tijdelijk zal overspoelen, dus hoe meer mensen vertrouwen hebben in de omgang met zieke mensen thuis, hoe minder mensen onnodig bij de huisarts en in de ziekenhuizen zullen komen opdagen. Tegelijkertijd moeten mensen nog steeds weten wanneer patiënten medische hulp nodig hebben. 
+Het doel van covid-thuis is om (in beknopte vorm) te delen wat we hebben geleerd en no-nonsense praktische informatie te geven in de omgang met de COVID-19 pandemie op een open en niet-commerciële basis. De belangrijkste veronderstelling is dat COVID-19 in ieder geval op sommige plaatsen het zorgsysteem tijdelijk zal overbelasten, dus hoe meer mensen iets weten over de zorg voor zieke mensen thuis, hoe minder mensen onnodig bij de huisarts en in de ziekenhuizen zullen komen opdagen. Tegelijkertijd moeten mensen nog steeds weten wanneer patiënten medische hulp nodig hebben. 
 
 Wil je helpen? Fijn! We hebben daar een [hele sectie](/help) aan gewijd.
 
