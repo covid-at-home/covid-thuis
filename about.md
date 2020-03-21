@@ -14,8 +14,7 @@ Deze site wordt gepubliceerd onder een [Creative Commons Attribution-NonCommerci
 
 Deze site is verbeterd omdat we hulp kregen van (in alfabetische volgorde):
 
-{% for person in site.data.thankyou.people %}
-* {{ person.name }}
+{% for person in site.data.thankyou.people %}* {{ person.name }}
 {% endfor %}
 
 ### Impressum
