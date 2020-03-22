@@ -8,6 +8,8 @@ Toen we in de tweede week van maart 2020 in Berlijn, Duitsland, begonnen te schr
 
 Deze gids is gebaseerd op de veronderstelling dat in de komende maanden meer mensen dan normaal ziek worden of zieke mensen in hun directe omgeving zullen hebben. Laten we allemaal hopen op het beste, maar we gaan ervan uit dat artsen en ziekenhuizen het erg druk zullen hebben, en mogelijk overbelast raken. We moeten de mogelijkheid onder ogen zien dat sommige mensen die normaal gesproken onder medisch toezicht worden verzorgd, nu thuis moeten worden verzorgd.  We hopen de informatie hier enig vertrouwen schept in de aanpak van deze ziekte en dat het de belasting voor artsen en zorgpersoneel zal verminderen. Die zullen het de komende weken en maanden behoorlijk druk hebben, zoals het er nu uit ziet. Tegelijkertijd hopen we je informatie te geven die je kan helpen te bepalen wanneer het tijd is om professionele medische hulp in te schakelen. Het kan de komende tijd helpen om veel mensen in staat te stellen om dat evenwicht te bereiken. 
 
+[![](/images/treat-at-home.png)](https://www.statnews.com/2020/03/21/coronavirus-plea-from-italy-treat-patients-at-home/)
+
 Deze gids bevat algemene adviezen die op veel plaatsen van toepassing zouden moeten zijn. We kunnen informatie toevoegen die specifiek is voor bepaalde landen of regio's, maar hou je ogen goed open voor meer specifieke informatie uit andere betrouwbare bronnen die meer gericht zijn op jouw regio. 
 
 Sommige van de auteurs van deze website staan niet bekend als grote fans van de overheid en het gezag, maar op dit punt is het vertrouwen in de volksgezondheidsinstanties van vitaal belang. Als er discrepanties zijn, vertrouw dan op gerenommeerde bronnen zoals:
