@@ -2,85 +2,85 @@
 
 Naast het hebben van ongeveer 2-4 weken aan benodigdheden zoals boodschappen en andere huishoudelijke benodigdheden, zijn hier enkele noodzakelijke en handige dingen om te hebben als je voor iemand met COVID-19 gaat zorgen. Niets van dit alles is erg duur of vereist een speciale opleiding om te gebruiken. 
 
-Als we voorbeelden hebben opgenomen (over het algemeen op de Duitse versie van Amazon), dan is dit geen koopadvies en verdienen we geen geld als je op die ene (of een andere) klikt. Door het voorbeeld te laten zien, bedoelen we niets meer dan *"zoiets als dit." * Gebruik welk online of retailkanaal je ook maar wilt om iets dergelijks te krijgen. 
+Als we voorbeelden hebben opgenomen (over het algemeen op de Duitse versie van Amazon), dan is dit geen koopadvies en verdienen we geen geld als je op precies dat artikel, of een ander artikel klikt. Door het voorbeeld te laten zien, bedoelen we niets meer dan *"zoiets als dit." * Gebruik welk online of retailkanaal je ook maar wilt om iets dergelijks in huis te halen. 
 
 &nbsp;
 
-### Moet hebben
+### Echt Noodzakelijk
 
 * **Koortsthermometer** (2-10 EUR/USD) ([voorbeeld](https://www.amazon.de/gp/product/B001NYHXYS))
 
    > ![](/beelden/thermometer.png)
    >
-   > Zo belangrijk dat je de jouwe waarschijnlijk moet controleren als hij al eeuwen in het badkamermeubel staat. Is de batterij nog steeds in orde? Het kan geen kwaad om er twee te hebben, voor het geval dat. Voor 2-10 dollar, ze maken grote geschenken (en als ze anaal worden ingevoegd om een meer precieze meting te krijgen, kunnen ze niet zijn items die je wilt lenen aan iemand.)
+   > Zo belangrijk dat het een goed idee is om de jouwe goed te controleren als je hem al lang hebt. Is de batterij nog steeds in orde? Het kan geen kwaad om er twee te hebben, voor het geval dat. Voor 2-10 euro, prima om kado te geven (Mogelijk gebruik je vanwege de meer precieze meting een anale thermometer. Misschien niet het soort item wat je graag wilt uitlenen.)
 
-* Genoeg lakens, kussenslopen, handdoeken...
+* Genoeg lakens, kussenslopen, handdoeken...**
    
-   > Dingen die de meeste mensen in huis hebben, maar voor de zekerheid: Als mensen eenmaal ziek worden, wil je het beddengoed vaak verschonen en mag je ook meer handdoeken gebruiken.
+   > Zaken die de meeste mensen in huis hebben, maar voor de zekerheid: Als mensen eenmaal ziek worden, wil je het beddengoed vaak verschonen en gebruik je mogelijk ook meer handdoeken dan normaal.
    
 * **Schoonmaakbenodigdheden, bleekmiddel**
 
 * **Paracetamol (ook bekend als acetaminofen, tylenol of panadol)**.
 
-  > De koorts onderdrukker en pijnstiller naar keuze. Zorg ervoor dat u de verpakkingsinstructies volgt en de maximale aanbevolen dagelijkse dosis niet overschrijdt.
+  > Dit is de geadviseerde koorts onderdrukker en pijnstiller. Volg de informatie in de bijsluiter zorg dat je de maximale aanbevolen dagelijkse dosis niet overschrijdt.
 
 &nbsp;
 
-### Leuk om te hebben
+### Fijn om te hebben
 
 * **Pulsoxymeter** (20-25 EUR/USD) ([voorbeeld](https://www.amazon.de/gp/product/B07P3ZS6L3))  **Zie de notitie hieronder! **
    > ![](/beeld/pulse-oxi.png)
    >
-   > Kleine gadget dat op uw vinger klemt en de hartslag (die ook op andere manieren gemakkelijk te meten is) en de zuurstofverzadiging in het bloed (die op een andere manier moeilijk te meten is) laat zien.
+   > Apparaatje dat je op je vinger klemt en dat de hartslag en de zuurstofverzadiging in het bloed laat zien. De hartslag is ook op andere manieren makkelijk te meten maar de zuurstofverzadiging niet.
 
 * **Bloeddrukmeter** (20 EUR/USD of zo) ([voorbeeld](https://www.amazon.de/gp/product/B07KY867ZH))  **Zie de notitie hieronder! **
    > ![](/beelden/bloeddruk.png)
    >
-   > Er zijn eenvoudige trucjes om te zien of iemands bloeddruk te laag wordt (zie de hoofdtekst op deze site). Het kan echter nuttig zijn om dit objectiever te kunnen meten, vooral als u een trend in de bloeddruk van de patiënt wilt zien/ tonen.<br>
-   > ** Maar... Wat je NIET moet doen:** *Je moet niet een van deze kopen, bloeddruk meten, iets vinden op het internet dat een "normaal bereik" heeft, en in paniek raken als je bloeddruk hoger of lager is. Veel mensen hebben een hoge of lage bloeddruk en stress verhoogt de bloeddruk (en de hartslag). Hoewel een verhoogde bloeddruk over een langere periode zeker iets is wat u misschien aan uw arts wilt melden als u er toch bent, is het geen PROBLEEM dat u met beide doctoren in de MIDDEL VAN EEN PANDEMISCHE WIJZIGEN".
+   > Er zijn eenvoudige trucjes om te zien of iemands bloeddruk te laag wordt (zie de hoofdtekst op deze site). Het kan echter nuttig zijn om dit objectiever en preciezer te kunnen meten, vooral als je een trend in de bloeddruk van de patiënt wilt zien/ tonen.<br>
+   > ** Maar... Wat je NIET moet doen:** *Je moet niet een bloeddrukmeter kopen, bloeddruk meten, iets vinden op het internet lezen over het "normale bereik", en in paniek raken als je bloeddruk hoger of lager dan dat is. Veel mensen hebben een hoge of lage bloeddruk en stress verhoogt de bloeddruk (en de hartslag). Hoewel een verhoogde bloeddruk over een langere periode zeker iets is wat je aan je arts wilt melden als je er toch bent, DIT IS GEEN PROBLEEM OM ARTSEN MEE LASTIG TE VALLEN MIDDEN IN EEN PANDEMIE.
    
 * **Incontinentie / waterdichte lakens** (20 EUR/USD of zo) ([voorbeeld](https://www.amazon.de/Comfortcare-Inkontinenz-Bettw%C3%A4sche-waschbar-Blau/dp/B07W7CCQVG) of [voorbeeld](https://www.amazon.de/Co-operative-Independent-Living-Bettdeckenbezug-wasserabweisend/dp/B00BJMA8X2))
    > ![](/images/sheet.png)
    >
-   > Zieke mensen hebben soms ongelukken. Je zult ons bedanken.
+   > Ongelukjes komen voor bij zieke mensen, je zult ons dankbaar zijn.
 
 * **Stoom inhalator** (25 EUR/USD of zo) ([voorbeeld](https://www.amazon.de/gp/product/B07SNQH6CZ))
    > ![](/beelden/stoom.png)
    >
-   > Vaak verkocht als "gezichtssauna" of wat voor naam dan ook, het zijn gewoon apparaten die stoom produceren die niet te heet is om te ademen. Elke andere methode die stoom produceert is ook OK, zorg er alleen voor dat je geen schade aanricht met stoom die te heet is. Het apparaat neemt gedemineraliseerd water ([voorbeeld](https://www.amazon.de/gp/product/B07J5Y95MQ)), met name op plaatsen waar het leidingwater veel kalk bevat. 
-   > **Waarschuwing:** Warme, natte apparaten zijn uitstekende middelen om het virus te verspreiden. Waarschijnlijk te gebruiken voor één ziek persoon per keer of op z'n minst zorgvuldig schoon te maken.
+   > Vaak verkocht als "gezichtssauna" of wat voor naam dan ook, het zijn gewoon apparaten die stoom produceren die niet te heet is om in te ademen. Elke andere methode die stoom produceert is ook OK. Stoom die te heet is kan echter schade aanrichten. Dus zorg er voor dat de stoom niet te heet is bij inademen. Het apparaat werkt met gedemineraliseerd water ([voorbeeld](https://www.amazon.de/gp/product/B07J5Y95MQ)), met name op plaatsen waar het leidingwater veel kalk bevat. 
+   > **Waarschuwing:** Warme, natte apparaten zijn uitstekende manieren om het virus te verspreiden. Gebruik het apparaat dus liefst alleen voor één ziek persoon. Als dat niet mogelijk is maak het dan heel zorgvuldig schoon.
 
 * **Vitaminen** (enkele EUR/USD) ([voorbeeld](https://www.amazon.de/dp/B07S63PCZK))
    > ![](/beeld/multi-vitamine.png)
    >
-   > Voor als de patiënt niet (veel) meer eet maar toch drinkt. Misschien neem je de grote multivitaminepillen die in het water bruisen, een paar buisjes daarvan. Probeer die te krijgen die ongeveer 1-2 keer de aanbevolen dagelijkse dosis van alle vitaminen en mineralen die ze bevatten, geen gekke 1000% megadoses.
+   > Zeker als de patiënt niet (veel) meer eet maar wel drinkt. Een optie zijn een paar buisjes van de grote multivitaminepillen die bruisend in het water oplossen. Probeer die te krijgen die ongeveer 1 à 2 keer de aanbevolen dagelijkse dosis van alle vitaminen en mineralen bevatten. Haal geen bizarre 1000% megadoses.
 
 #### Belangrijke opmerking
 
-Een opmerking over de eerste twee punten: sommige medische professionals die we spreken zullen het gevoel hebben dat de niet-medisch getrainde meer kwaad of goed zal doen als ze beginnen met het nemen van SpO2- of bloeddrukmetingen. We nemen de apparaten hier op omdat ze veel gebruikt worden en we het gevoel hebben dat het gezondheidssysteem op sommige plaatsen, in sommige periodes, niet in staat is om te gaan met de aantallen mensen die ziek worden, en we de balans opmaken in de richting van de voordelen van het kunnen zien / laten zien van trends.
+Een opmerking over de eerste twee punten: sommige medische professionals die we spreken hebben het gevoel dat niet-medisch getrainde meer kwaad of goed doen als ze beginnen met het nemen van SpO2- of bloeddrukmetingen. We nemen de apparaten hier toch op omdat ze veel gebruikt worden en we het gevoel hebben dat het gezondheidssysteem op sommige plaatsen, in sommige periodes, niet in staat zal zijn om om te gaan met de aantallen mensen die ziek worden. Hierdoor is denken we dat als we de balans opmaken dat deze gaat richting van de voordelen van het kunnen zien / laten zien van trends.
 
-Als u toch besluit dat u de bloeddruk en SpO2 wilt kunnen meten, maak dan in ieder geval goed kennis met het apparaat. Oefenen! Ook om een goed gevoel te krijgen voor hoe de normale waarden in u en of uw dierbaren eruit zien voordat iemand ziek wordt. Lees onze richtlijnen over wanneer ** en wanneer niet** om hulp te zoeken op basis van de informatie die zij verstrekken.
+Als je besluit dat je toch de bloeddruk en SpO2 wilt kunnen meten, leer het apparaat en zijn werking dan goed kennen. Oefen! Ook om een goed gevoel te krijgen voor hoe de normale waarden bij jou en je dierbaren eruit zien voordat iemand ziek wordt. Lees onze richtlijnen over wanneer **en wanneer niet** om hulp te vragen op basis van de informatie die deze apparaten verstrekken.
 
 &nbsp;
 
 ### PPE (Persoonlijke beschermingsmiddelen)
 
-Winkelen voor PBM's is om verschillende redenen meer dan een beetje lastig.
+Winkelen voor PBM's is om verschillende redenen meer dan lastig.
 
-Ten eerste, dit kan allemaal nieuw zijn. U weet misschien niet welke soorten bescherming in welke situaties nodig zijn. De Wereldgezondheidsorganisatie heeft zeer nuttige instructies over [wanneer u een masker moet dragen en hoe u een masker moet gebruiken](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks). U moet een masker alleen dragen als u ziek bent met bekende of vermoedelijke COVID-19 (koorts, hoest, kortademigheid), en wanneer u in dezelfde kamer bent met iemand die ziek is met bekende of vermoedelijke COVID-19. Houd uw handen van uw masker terwijl u het draagt en blijf goede handwaspraktijken gebruiken. Zorg ervoor dat u wat advies leest en bekijk wat video's over wanneer en hoe u uw persoonlijke beschermingsmiddelen veilig kunt aantrekken, gebruiken en weggooien om er zeker van te zijn dat het echt werkt om u en anderen te beschermen. (Dit is vooral waar als u een beademingsapparaat gebruikt in plaats van een masker: Het is verrassend moeilijk om ervoor te zorgen dat je ademhalingstoestel een goede pasvorm heeft).
+Ten eerste, dit is misschien allemaal nieuw voor je. Je weet mogelijk niet welke soorten bescherming in welke situaties nodig zijn. De Wereldgezondheidsorganisatie heeft zeer nuttige instructies over [wanneer je een mondkapje moet dragen en hoe je een mondkapje moet gebruiken](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks). Je moet een mondkapje alleen dragen als je weet vermoed dat je de ziekte COVID-19 hebt (koorts, hoest, kortademigheid), en wanneer je in dezelfde kamer bent met iemand die ziek is of vermoed wordt dat die COVID-19 heeft. Raak het mondkapje niet aan terwijl je het draagt en blijf je handen grondig wassen. Lees over wanneer en hoe je je persoonlijke beschermingsmiddelen veilig kunt aantrekken, gebruiken en weggooien om er zeker van te zijn dat het echt werkt om jou en anderen te beschermen. Kijk er ook video's over. (Dit is vooral van belang als je een masker gebruikt in plaats van een mondkapje: Het is verrassend lastig om ervoor te zorgen dat je masker een goede pasvorm heeft).
 
-En dan is er nog het feit dat sommige mensen in paniek zijn geraakt en dat sommige bedrijven de prijzen hebben opgedreven, waardoor essentiële apparatuur zoals maskers op sommige plaatsen zelfs voor artsen en verpleegkundigen die ze echt nodig hebben, niet beschikbaar is. Als het nog vroeg in de pandemie is, kan het zijn dat uw regering maskers verstrekt aan mensen die leven met en/of zorgen voor mensen met COVID-19. De sectie hier beschrijft dingen die je zou kunnen proberen te krijgen als je voor andere mensen moet zorgen. 
+En dan is er nog het feit dat sommige mensen paniekaankopen hebben gedaan en dat sommige bedrijven de prijzen hebben opgedreven, waardoor essentiële apparatuur zoals mondkapjes en maskers op sommige plaatsen zelfs voor artsen en verpleegkundigen die ze echt nodig hebben, niet beschikbaar zijn. Als het nog vroeg in de pandemie is, kan het zijn dat jouw regering maskers verstrekt aan mensen die leven met en/of zorgen voor mensen met COVID-19. De sectie hier beschrijft dingen die je zou kunnen proberen in huis te halen als je voor andere mensen moet zorgen. 
 
-Dus eerst en vooral, en we bedoelen dit: **Luister naar officiële adviezen over wat *niet* te koop is** om te voorkomen dat dingen niet beschikbaar zijn voor de artsen en verpleegkundigen die ze het meest nodig hebben. Het beleid en de algemene praktijk met betrekking tot maskers zullen nog een tijdje in de hele wereld sterk verschillen. Naar buiten gaan met een masker of het dragen van een masker in het gewone dagelijkse leven als je gezond bent, wordt niet ondersteund door het wetenschappelijke bewijs over goed blijven. Als u toegang heeft tot een masker, is het waarschijnlijk zinvol om er een te dragen als u zich een beetje ziek voelt of hoest, maar _absoluut_heeft_om_uit te gaan. Het is ook zinvol als je voor iemand zorgt die ziek is. Het is zelfs verplicht in de COVID-quarantaine thuiszorg protocollen in sommige landen. Controleer onder welke omstandigheden de autoriteiten u voorzien van maskers. Zie de hoofdtekst over verdere zaken om over na te denken als het gaat om het zoveel mogelijk inperken van de verspreiding van het virus.
+Belangrijk uitgangspunt: **Luister naar officiële adviezen over wat je *niet* moet kopen** om te voorkomen dat dingen niet beschikbaar zijn voor de artsen en verpleegkundigen die ze het meest nodig hebben. Het beleid en de algemene praktijk met betrekking tot mondkapjes zal nog een tijd in de hele wereld per regio sterk verschillen. Het nut van naar buiten gaan met een mondkapje of het dragen van een mondkapje in het gewone dagelijkse leven als je gezond bent, wordt niet ondersteund door het wetenschappelijke bewijs over gezond blijven. Als je de beschikking hebt tot een mondkapje, is het waarschijnlijk zinvol om er een te dragen als je je een beetje ziek voelt of hoest, maar _absoluut_naar_buiten_moet_gaan._ Het is ook zinvol als je voor iemand zorgt die ziek is. Het is zelfs verplicht in de COVID-quarantaine thuiszorg protocollen in sommige landen. Controleer onder welke omstandigheden de autoriteiten je voorzien van mondkapjes. Zie de hoofdtekst over verdere zaken om over na te denken als het gaat om het zoveel mogelijk inperken van de verspreiding van het virus.
 
 * **Medisch masker, bij voorkeur N95** (enkele EUR/USD)
    > ![](/images/masker.png)
    >
-   > FFP2- of FFP3-ademhalingstoestellen worden ook aanbevolen. Een gewoon gezichtsmasker (chirurgisch of procedureel) is beter dan niets als u geen beademingsapparaat kunt krijgen. Merk op dat de ademhalingstoestellen in versie met en zonder ventiel worden geleverd. Het ventiel (vaak een rond plastic dingetje) laat de uitgeademde lucht ongefilterd naar buiten. Dit is prima als u spuitwerk doet, en het kan prima zijn als u een bekend gezond persoon beschermt tegen een bekend ziek persoon, maar in geen geval mag de zieke een versie met een klep dragen. 
+   > FFP2- of FFP3-maskers worden ook aanbevolen. Een gewoon mondkapje (chirurgisch of procedureel) is beter dan niets als je geen FFP2 of FFP3-masker kunt krijgen. Merk op dat de maskers in versies met en zonder ventiel worden geleverd. Het ventiel (vaak een rond plastic dingetje) laat de uitgeademde lucht ongefilterd naar buiten. Dit is prima als je spuitwerk doet, en het kan prima zijn als je een bekend gezond persoon beschermt tegen een bekend ziek persoon, maar in geen geval mag de zieke een versie met een klep dragen. **Koop op dit moment geen maskers in Nederland, de dokters en verpleegsters hebben te weinig!**
 
-* **jurk / regenjas** (enkele EUR/USD) ([voorbeeld](https://www.amazon.de/dp/B07DFDFFRX))
+* **poncho / regenjas / regencape** (enkele EUR/USD) ([voorbeeld](https://www.amazon.de/dp/B07DFDFFRX))
 
-   > Het beste is als je een waterbestendige jurk met lange mouwen kunt vinden. 
+   >  Als beschermende kleding is waterafstotende kleding met lange mouwen, zoals een goedkope regenponcho, geschikt.
 
 * **Handschoenen** (minder dan een EUR/USD) ([voorbeeld](https://www.amazon.de/dp/B01LWJ80C7))
    > ![](/beelden/handschoenen.png)
