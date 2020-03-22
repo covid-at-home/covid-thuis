@@ -6,20 +6,20 @@
 
 Volg waar mogelijk de instructies van de autoriteiten. Dit omvat een aantal van de nu bekende richtlijnen voor sociale afstand en sociale onthouding:
 
-* Verander je begroeting. In plaats van een handdruk, knuffel of kus(sen), zwaai, buig of doe de namasté groet 🙏 en blijf op afstand.
+* Verander je begroeting. In plaats van een handdruk, knuffel of kus(sen): zwaai, buig of doe de namasté groet 🙏 en blijf op afstand.
 * Je ogen, neus en mond zijn mogelijke manieren om het virus in je lichaam te krijgen. Was je handen voordat je je gezicht aanraakt. Raak je gezicht niet aan als je buiten bent.
-* Was je handen grondig, zo vaak mogelijk en met water en zeep, was ze ook zodra je thuiskomt en voor het eten. Gebruik waar mogelijk zeep en water, in plaats van handreiniger: Het is [betrouwbaarder](https://www.nytimes.com/2020/03/13/health/soap-coronavirus-handwashing-germs.html). 
+* Was je handen grondig, zo vaak mogelijk en met water en zeep. Was je handen ook zodra je thuiskomt en voor het eten. Gebruik waar mogelijk zeep en water, in plaats van handreiniger: Het is [betrouwbaarder](https://www.nytimes.com/2020/03/13/health/soap-coronavirus-handwashing-germs.html). 
 * Kleed je om als je thuiskomt. 
 * Steriliseer regelmatig deurknoppen, tafeloppervlakken, toetsenborden en andere plaatsen en objecten die mensen vaak aanraken.
 * Hoest en nies in je elleboog of in een papieren wegwerp zakdoekje, niet in je hand of onbeschermd. 
 * Werk van thuis uit als dat mogelijk is.
-* Gebruik waar mogelijk alternatieven voor persoonlijke ontmoetingen (bijv. video- of spraakoproepen). 
-* Vermijd drukte en onnodig reizen. Als je boodschappen moet doen, doe het dan als de winkels minder druk zijn. Als je in een menigte moet zijn, probeer dan een persoonlijke afstand tot anderen te bewaren van minimaal 1.5 meter en blijf ver uit de buurt van iedereen die ziek lijkt te zijn (bijvoorbeeld door hoesten of niezen). 
-* Ga waar mogelijk fietsen of lopen in plaats van reizen met het openbaar vervoer. Als je toch met het openbaar vervoer reist, houd dan nog steeds voldoende afstand tot anderen en blijf uit de buurt van iedereen die ziek is of lijkt. 
-* Ga thuis koken en eten in plaats van naar een restaurant, 
-* Laat voedsel, boodschappen of kruidenierswaren niet bezorgen op een manier die direct contact oplevert en lever ze ook zelf niet bij anderen thuis af met direct contact. Laat ze in plaats daarvan buiten voor de deur staan of laat ze op een andere manier achter zonder contact.
-* In plaats van vrienden te ontmoeten voor een koffie of een drankje, maak een video-chat of coördineer een wandeling naar de supermarkt terwijl je je [veilige afstand](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public) van ten minste 1,5 meter bewaart.
-* In plaats van binnen te trainen (bijv. in de sportschool), kunt je, als het weer het toelaat, naar buiten gaan om te wandelen of te hardlopen, terwijl je afstand houdt van andere mensen. 
+* Gebruik waar mogelijk alternatieven voor persoonlijke ontmoetingen (bijv. videogesprekken of spraakoproepen). 
+* Vermijd drukte en onnodig reizen. Als je boodschappen moet doen, doe het dan als de winkels minder druk zijn. Als je in een menigte moet zijn, probeer dan een persoonlijke afstand tot anderen te bewaren van minimaal 1.5 meter en blijf ver uit de buurt van iedereen die ziek lijkt te zijn (bijvoorbeeld iemand die hoest of niest). 
+* Ga waar mogelijk fietsen of lopen in plaats van reizen met het openbaar vervoer. Als je toch met het openbaar vervoer reist, houd dan nog steeds voldoende afstand tot anderen en blijf uit de buurt van iedereen die ziek is of ziek lijkt. 
+* Ga thuis koken en eten in plaats van naar een restaurant.
+* Laat voedsel, boodschappen of kruidenierswaren niet bezorgen op een manier die direct contact oplevert en lever ze ook zelf niet bij anderen thuis af met direct contact. Laat die boodschappen in plaats daarvan buiten voor de deur afleveren of laat ze op een andere manier achter zonder contact.
+* In plaats van vrienden te ontmoeten voor een koffie of een drankje, maak een video-chat of coördineer een wandeling naar de supermarkt terwijl je een [veilige afstand](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public) van ten minste 1,5 meter bewaart.
+* In plaats van binnen te trainen (bijv. in de sportschool), kun je, als het weer het toelaat, naar buiten gaan om te wandelen of te hardlopen, terwijl je afstand houdt van andere mensen. 
 * Volg de adviezen van de overheid / volksgezondheidsinstantie RIVM, inclusief het mogelijke advies om binnenshuis te blijven wanneer dat van toepassing wordt op de plaats waar je je bevindt.
 
 
@@ -32,7 +32,7 @@ Je kunt veel doen om zo gezond mogelijk te blijven:
 * Ventileer alle kamers regelmatig.
 * Eet normale passende hoeveelheden voedsel dat rijk is aan voedingsstoffen en gezond is. Neem ten minste enkele producten met koolhydraten (bv. brood, aardappelen, pasta, rijst, enz.). Vitamine D ("de zonnevitamine") en vitamine C kunnen vooral helpen bij het voorkomen of verzachten van de gevolgen van luchtweginfecties. 
 * Drink genoeg, met name water.
-* Regelmatige lichaamsbeweging. Als het aanbevolen of vereist is om binnenshuis te blijven, zoek dan naar manieren om thuis te bewegen: Dans op je favoriete muziek, eventueel samen met vrienden via video-chat, doe mee aan online yoga of andere oefenlessen, of probeer eenvoudige core en lichaamsgewicht oefeningen zoals push-ups, sit-ups, en squats in combinatie met eenvoudige stationaire aërobe oefeningen zoals jumping jacks, hoelahoep, en touwtje springen. 
+* Regelmatige lichaamsbeweging. Als het aanbevolen of vereist is om binnenshuis te blijven, zoek dan naar manieren om thuis te bewegen: Dans op je favoriete muziek, eventueel samen met vrienden via video-chat, doe mee aan online yoga of andere oefenlessen, of probeer eenvoudige core en spierversterkende oefeningen zoals push-ups, sit-ups, en squats in combinatie met eenvoudige stationaire aërobe oefeningen (cardio) zoals jumping jacks, hoelahoep, en touwtje springen. 
 * Als je rookt, stop dan met roken.
 * Vermijd veel alcoholgebruik en drugs, omdat alcohol en andere drugs het afweersysteem verzwakken en de kans op besmetting en ziek worden vergroten. 
 * Als je buiten deze essentiële zaken nog meer wilt doen, overweeg dan [aanvullende medicijnopties] (/complementair) om onder andere de immuniteit te verbeteren en om de bovenste luchtwegen en / of virale infecties te voorkomen en te behandelen. Er zijn een aantal mogelijk nuttige opties, maar houd er rekening mee dat er vooralsnog alleen bewijs is voor de werkzaamheid binnen een aantal verschillende heel specifieke contexten. Veel oplichters en misleiders gaan veel geld verdienen aan de paniek, zonder enige daadwerkelijke hulp te bieden. Trap er niet in. 
