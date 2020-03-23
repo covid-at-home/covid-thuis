@@ -1,6 +1,6 @@
 Deze website is gemaakt naar aanleiding van de COVID-19 pandemie maar veel van de adviezen kunnen ook in andere situaties van toepassing zijn. Veel van wat hier besproken is, valt voor sommigen misschien onder gezond verstand maar we vonden het toch goed om wat checklists en adviezen voor verschillende stadia van de ziekte op één plek te hebben. Terwijl we met verpleegkundigen en artsen hebben overlegd over een groot deel van dit advies, is het grootste deel van deze tekst geschreven door niet-medisch geschoolden, in een poging om samen uit te puzzelen wat zin heeft in deze nieuwe situatie. 
 
-Voor alle duidelijkheid: **LUISTER NAAR DE LOKALE GEZONDHEIDS AUTHORITEITEN ZOALS HET RIVM (NL), FOD Volksgezondheid (BE), ARTSEN EN VERPLEGERS** wanneer je de keuze hebt tussen die informatie en iets wat je op het internet hebt gevonden, zoals deze website.
+Voor alle duidelijkheid: **VOLG DE AANWIJZINGEN VAN DE OVERHEID, ARTSEN EN VERPLEGERS** wanneer je de keuze hebt tussen die informatie en iets wat je op het internet hebt gevonden (zoals ook deze website).
 
 Toen we in de tweede week van maart 2020 in Berlijn, Duitsland, begonnen te schrijven voor deze site, was veel over het virus nog onduidelijk maar het aantal besmettingen en doden nam gestaag toe, het meest recentelijk in Italië. Hoewel het nu niet - en ook nooit - een goed moment is om in paniek te raken, denken we wel dat het nu tijd is om na te denken en ons voor te bereiden.
 
