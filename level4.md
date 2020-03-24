@@ -2,13 +2,13 @@
 
 Naarmate de symptomen verergeren en de toestand van de patiënt verslechtert, moet vaker gemeten worden. Op dit punt moet het logboek om de paar uur de temperatuur, de ademhaling en de hartslag bevatten.
 
-Als één van de volgende zaken optreed, beschouw dat dan als een als een medisch noodgeval:
+Als één van de volgende zaken optreed, beschouw dat dan als een medisch noodgeval:
 
 ### Verlies van bewustzijn
 
 Er zijn verschillende niveaus. Wanneer de patiënt het bewustzijn verliest, noteer dan of de patiënt reageert wanneer je zijn of haar naam roept (Stem), wanneer je krachtig in de schouder knijpt (Pijn) of dat hij of zij helemaal niet reageert (Onresponsief).
 
-Als het bewustzijnsverlies kortstondig is, kunt je (als de patiënt snel herstelt en weer helemaal wakker is!) de patiënt aanmoedigen om een beetje te eten en te drinken en de kamer fris te ventileren. Maar het verlies van het bewustzijn is ernstig, haal hulp.
+Als het bewustzijnsverlies kortstondig is, kunt je (als de patiënt snel herstelt en weer helemaal wakker is!) de patiënt aanmoedigen om een beetje te eten en te drinken en de kamer fris te ventileren maar als het verlies van het bewustzijn ernstig is: Haal hulp.
 
 ### Cognitieve problemen / verwarring
 
@@ -16,9 +16,9 @@ Je kent de patiënt waarschijnlijk goed, dus je zou zonder enige vorm van onderz
 
 ### Te hoge of te lage ademhalingsfrequentie
 
-Tel de ademhalingen per minuut door uw hand dicht genoeg bij de patiënt te houden om zijn of haar adem te voelen, naar zijn of haar borst te kijken en/of naar zijn of haar buik te kijken. Gebruik een klok met een secondewijzer of een digitaal horloge/telefoon stopwatch om de tijd in de gaten te houden. De ademhalingssnelheid (RR) moet tussen 12 en 20 ademhalingen per minuut liggen. 
+Tel de ademhalingen per minuut door uw hand dicht genoeg bij de patiënt te houden om zijn of haar adem te voelen, naar zijn of haar borst te kijken en/of naar zijn of haar buik te kijken. Gebruik een klok met een secondewijzer of een digitaal horloge/telefoon/stopwatch om de tijd in de gaten te houden. De ademhalingssnelheid (RR) moet tussen 12 en 20 ademhalingen per minuut liggen. 
 
-Onmiddellijke thuiszorg bij ademhalingsproblemen kan bestaan uit het ventileren / luchten van de kamer van de patiënt en het stutten van hem of haar zodat hij of zij rechtop in een comfortabele rustpositie kan zitten. Het is ook een goed idee om het hoofd van het bed omhoog te brengen om te slapen als dat mogelijk is, en er zijn enkele slaapposities die de ademhaling kunnen vergemakkelijken (zie Niveau 3, Verzorgingswerk).
+Onmiddellijke thuiszorg bij ademhalingsproblemen kan bestaan uit het ventileren / luchten van de kamer van de patiënt en het stutten van hem of haar zodat hij of zij rechtop in een comfortabele rustpositie kan zitten. Het is ook een goed idee om het hoofdzijde van het bed omhoog te brengen om te slapen als dat mogelijk is en er zijn enkele slaapposities die de ademhaling kunnen vergemakkelijken (zie Niveau 3, Verzorgingswerk).
 
 ![](/images/dyspnoe.png)
 
@@ -26,7 +26,7 @@ Als de patiënt of jijzelf last hebt van kortademigheid of moeizame ademhaling, 
 
 ### Lage zuurstofverzadiging
 
-Als je een saturatiemeter, ook wel pulse oxymeter, hebt (zie [winkelpagina](/shopping)), gebruik die dan. Elke zuurstofverzadiging van minder dan 95% kan wijzen op een ademhalingsprobleem. Als op een bepaald moment de **lipjes of vingertoppen van de patiënt blauw** worden (of zelfs licht blauw) (cyanose genoemd), bel dan een ambulance! Als de saturatie minder dan 96% is, breng dan frisse lucht in de kamer van de patiënt en warm hem of haar op.
+Als je een saturatiemeter, ook wel pulse oxymeter, hebt (zie [winkelpagina](/shopping)), gebruik die dan. Elke zuurstofverzadiging van minder dan 95% kan wijzen op een ademhalingsprobleem. Als op een bepaald moment de **lippen of vingertoppen van de patiënt blauw** worden (of zelfs licht blauw) (cyanose genoemd), bel dan een ambulance! Als de saturatie minder dan 96% is, breng dan frisse lucht in de kamer van de patiënt en warm hem of haar op.
 
 ![](/beeld/cyanose.png)
 
@@ -46,12 +46,12 @@ Uitdroging is een veel voorkomende oorzaak van lage bloeddruk, dus directe thuis
 
 ### Te hoge of te lage hartslag
 
-De hartslag is gemakkelijker te meten dan de bloeddruk, en meestal gaat een hoge hartslag (meer dan 100-110 slagen per minuut voor een volwassene) samen met een lage bloeddruk. Kleinere mensen en kinderen hebben vaak een hogere hartslag. Een matig hoge hartslag alleen is geen reden voor alarm, omdat het kan duiden op angst of uitdroging.  Het kan nuttig zijn om iets te eten en te drinken en een ontspanningstechnieken toe te passen. Maar controleer wel of de maatregelen helpen en de hartslag omlaag gaat. Ook hier geldt weer dat waarden buiten het normale bereik je moeten aanzetten tot onmiddellijke medische hulp. Dit geldt vooral als u een snelle ademhaling ziet samen met een lage bloeddruk of een hoge hartslag en/of verwarring. 
+De hartslag is gemakkelijker te meten dan de bloeddruk, en meestal gaat een hoge hartslag (meer dan 100-110 slagen per minuut voor een volwassene) samen met een lage bloeddruk. Kleinere mensen en kinderen hebben vaak een hogere hartslag. Een matig hoge hartslag alleen is geen reden voor alarm, omdat het kan duiden op angst of uitdroging.  Het kan nuttig zijn om iets te eten en te drinken en om ontspanningstechnieken toe te passen. Controleer wel of de maatregelen helpen en de hartslag omlaag gaat. Ook hier geldt weer dat waarden buiten het normale bereik je moeten aanzetten tot onmiddellijke medische hulp. Dit geldt vooral als u een snelle ademhaling ziet samen met een lage bloeddruk of een hoge hartslag en/of verwarring. 
 
-### Zeer hoge koorts die plotseling komt (terug)
+### Zeer hoge koorts die plotseling (terug) komt
 
-Als je de temperatuur regelmatig controleert, wees dan alert als de trend plotseling veranderd en de temperatuur opeens hoog is, zelfs als de patiënt het eerder beter leek te doen. Regelmatige metingen zijn belangrijk. Een zeer hoge koorts (> 39° Celsius) is een reden om direct medische hulp te zoeken. Dat geld ook voor een koorts die weggaat en dan plotseling terugkomt. 
+Als je de lichaamstemperatuur regelmatig controleert, wees dan alert als de trend plotseling verandert en de temperatuur opeens hoger is, zelfs als de patiënt het eerder beter leek te doen. Regelmatige metingen zijn belangrijk. Een zeer hoge koorts (> 39° Celsius) is een reden om direct medische hulp te zoeken. Dat geld ook voor een koorts die weggaat en dan plotseling terugkomt. 
 
 ### Oproep voor hulp
 
-Het is ernstig als een van de bovenstaande symptomen zich voordoet! Dit het punt waarop u geen beslissingen meer moet nemen op basis van een gids van het internet. Wacht niet tot het nog erger wordt. Bel een dokter, of bel het noodnummer (112 in Nederland en België) en laat een ambulance komen. Blijf kalm en rapporteer de situatie zoals ze is. Je werk is gedaan: Je hebt een patiënt uit het medisch systeem gehouden terwijl hij of zij gewoon ziek was. Nu is het tijd voor professionals om er mee om te gaan. De gegevens die u hebt verzameld moeten u hopelijk helpen om de operator, de ambulancemensen en de artsen ervan te overtuigen dat u niet zonder reden in paniek bent en dat u de patiënt waarschijnlijk eerder de zorg kunt geven die hij of zij nodig heeft. gebruikt
+Het is ernstig als een van de bovenstaande symptomen zich voordoet! Dit het punt waarop u geen beslissingen meer moet nemen op basis van een gids van het internet. Wacht niet tot het nog erger wordt. Bel een dokter, of bel het noodnummer (112 in Nederland en België) en laat een ambulance komen. Blijf kalm en rapporteer de situatie zoals ze is. Je werk is gedaan: Je hebt een patiënt uit het medisch systeem gehouden terwijl hij of zij gewoon ziek was. Nu is het tijd voor professionals om er mee om te gaan. De gegevens die u hebt verzameld moeten u hopelijk helpen om de operator, de ambulancemensen en de artsen ervan te overtuigen dat u niet zonder reden in paniek bent en dat zij de patiënt waarschijnlijk eerder de zorg kunnen geven die hij of zij nodig heeft.
