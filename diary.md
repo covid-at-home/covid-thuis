@@ -8,7 +8,7 @@ We hebben een voorbeeld gemaakt van hoe een dagboekpagina in je COVID-dagboek er
 
 ### Het starten van het dagboek
 
-Waarschijnlijk wil je de gegevens al in dit formaat bewaren, zelfs als de patiënt pas net enige symptomen heeft ontwikkelt. Het maakt niet uit of je de meeste gegevens (nog) niet of niet vaak invult. Dit is ook een goed moment om een gevoel te krijgen voor hoe - min of meer - normale waarden er uitzien. Als de patiënt in bed ligt en mensen voor hem of haar zorgen, kun je wat vaker metingen doen.
+Waarschijnlijk wil je de gegevens al in dit formaat bewaren, zelfs als de patiënt pas net enkele symptomen heeft ontwikkelt. Het maakt niet uit of je de meeste gegevens (nog) niet of niet vaak invult. Dit is ook een goed moment om een gevoel te krijgen voor hoe - min of meer - normale waarden er uitzien. Als de patiënt in bed ligt en mensen voor hem of haar zorgen, kun je wat vaker metingen doen.
 
 ### Dagboek procedure
 
