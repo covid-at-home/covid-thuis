@@ -53,11 +53,11 @@ Schrijf alle symptomen op die de patiënt heeft. Als hij of zij pijn heeft, waar
 
 Paracetamol is een goede keuze voor koorts- en pijnbestrijding. Het bijhouden van een ziektedagboek helpt ook om bij te houden hoeveel u wanneer heeft genomen. Dat helpt om ervoor te zorgen dat u de koorts adequaat behandelt zonder meer dan de aanbevolen hoeveelheid in een periode van 24 uur in te nemen.
 
-[![](/images/diary-small-slanted.png)](/dagboek)
+[![](/images/diary-small-slanted.png)](/diary)
 
 ##### Printbaar ziektedagboek
 
-We hebben een **[afdrukbaar ziektedagboek](/dagboek)** gemaakt dat u kunt gebruiken om alle informatie op te schrijven die u verzamelt bij het opnemen van de temperatuur, de ademhalingssnelheid, enz. Bekijk het formulier en onze webpagina hierover via bovenstaande link.
+We hebben een **[afdrukbaar ziektedagboek](/diary)** gemaakt dat u kunt gebruiken om alle informatie op te schrijven die u verzamelt bij het opnemen van de temperatuur, de ademhalingssnelheid, enz. Bekijk het formulier en onze webpagina hierover via bovenstaande link.
 
 ### Word weer gezond.
 
