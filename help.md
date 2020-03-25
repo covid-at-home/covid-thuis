@@ -21,7 +21,7 @@ Dit geldt trouwens voor iedereen die iets toe te voegen heeft. Ofwel [rapporteer
 
 ##### Proeflezen
 
-We garanderen dat er genoeg tikfouten, mislukte zinnen en erger voorkomen. Graag kort [rapporteed een probleem](https://github.com/covid-at-home/covid-at-home.github.io/issues/new) en we lossen het op.
+We garanderen dat er genoeg tikfouten, mislukte zinnen en erger voorkomen. Graag kort [rapporteer een probleem](https://github.com/covid-at-home/covid-at-home.github.io/issues/new) en we lossen het op.
 
 ##### Alternatieve geneeskunde
 
