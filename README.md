@@ -1,6 +1,6 @@
 ### Deze github repository is de editing back-end voor de website die live is op
 
-# [covid-thuis.info](https://www.covid-thuis.info)
+# [covid-thuis.info](https://covid-thuis.info)
 
 
 ### Teamvergadering
