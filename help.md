@@ -1,27 +1,29 @@
-### We really NEED HELP
+### We hebben echt HULP nodig
 
-If this seems like a slick and streamlined operation to you, you're wrong. We're a small group of volunteers, mostly without medical training, winging it because we feel this information is not in one place and needs to be really soon. As we write this we haven't done much else for a week now, and we could really use help in the following areas:
+Mocht dit een soepel gestroomlijnde operatie lijken, dan heb je het mis. We zijn een kleine groep vrijwilligers, voornamelijk zonder medische achtergrond, die dit doen omdat we vermoeden dat deze informatie nergens op één plek verzameld is en heel snel beschikbaar moet zijn.. Terwijl we dit schrijven hebben we al een week lang niet veel anders gedaan en kunnen absoluut hulp gebruiken voor de volgende onderdelen
 
-#### Get the word out !
+##### Deel de informatie
 
-This is now one of the most important things you can do to help. Tweet about this website and mention it on Facebook, Instagram and wherever else you can think. If you are a journalist, could you maybe mention this website in print or broadcast media? If you are a YouTube influencer, could you maybe talk about this site? If you have any online marketing experience, could you maybe help us be found?
+Dit is nu een van de belangrijkste dingen die je kunt doen om te helpen. Tweet over deze website en vermeld het op Facebook, Instagram en alles wat je te binnen schiet. Als je een journalist bent, wil je deze website dan misschien vermelden in de gedrukte of uitgezonden media? Als je een YouTube influenceer bent,  wil je alsjeblieft deze site onder de aandacht brengen? Als je enige online marketing ervaring hebt, zou je ons willen helpen om gevonden te worden?
 
-#### Translate
+##### Vertalen
 
-We can set up a site with a domain in your language in no time, and link it from the main english website. All you need to do is translate text in the editing interface of Github, which we can talk you through. We think the entire website as it is now (March 15, 2020) can be translated in two to three person-days. You don't need to be a professional translator (but yay if you are). If your language is Spanish, German, French, Portugese, Italian, Dutch, Polish or Russian, we can set up your site preloaded with computer-transleted text that "only" needs to be fixed. (We use [DeepL translator](https://www.deepl.com/translator) for this, which is quite a bit better than Google Translate; the texts will still need quite a bit of manual work, but it does save time versus doing it all by hand. If your language has formal and informal addressing (Sie/du, U/jij, ...), we try to use the informal one, also to signify that this is a collaborative effort and that we are all in this together. 
+We kunnen in een mum van tijd een site opzetten met een domein in jouw taal en deze koppelen aan de Engelse hoofdwebsite. Het enige wat je hoeft te doen is tekst te vertalen in de redactie-interface van Github, waar we je doorheen kunnen praten. We denken dat de hele website zoals die nu is (15 maart 2020) in twee tot drie mandagen vertaald kan worden. Je hoeft geen professionele vertaler te zijn (maargraag natuurlijk, als je dat wel bent). Als je taal Spaans, Duits, Frans, Portugees, Italiaans, Nederlands, Pools of Russisch is, kunnen we je site voorbereiden in computervertaalde tekst die “slechts" moet worden gecorrigeerd. (We gebruiken hiervoor [DeepL vertaler](https://www.deepl.com/translator), die een stuk beter is dan Google Translate; de teksten hebben nog wel wat werk nodig, maar het bespaart wel tijd ten opzichte van handmatige vertalingen. Als je taal formeel en informeel aanspreekt (Sie/du, U/jij, ...), gebruiken we liever de informele versie, ook om aan te geven dat dit een gezamenlijke inspanning is en dat we allemaal in dezelfde situatie zitten. 
 
-Wanna help? Yeah! Prevent double work: don't start without talking to us. Please contact us right now by mailing [team@covid-at-home.info](mailto:team@covid-at-home.info) or by directly joining the [team video-conference]({{ site.data.languages.conf }}). (We try to be there when we work on the site. If we're not there, please be polite to whoever else joins.)
+Wil je helpen? Ja! Voorkom dubbel werk: begin niet zonder met ons te praten. Neem nu meteen contact met ons op door te mailen [team@covid-at-home.info](mailto:team@covid-at-home.info) of door direct lid te worden van de [team video-conferentie]({{ site.data.languages.conf }}). (We proberen er te zijn als we aan de site werken. Mochten we er niet zijn, wees dan alsjeblieft beleefd naar wie dan ook die ons team versterkt.
 
-(If you can provide a number of useful local links in your region with the translation, even better.)
+(Als je een aantal nuttige lokale links in je regio kunt voorzien van de vertaling, zelfs nog beter.)
 
-#### Content help
+#### Inhoudelijke hulp
 
-Blessed be if you are a doctor, a nurse, or a public health official. We hope to make your job easier in the months to come. Please read through the site and tell us if you have any remarks. But this goes for anyone else that has things to add as well. Please either [file an issue](https://github.com/covid-at-home/covid-at-home.github.io/issues/new), [mail us](mailto:team@covid-at-home.info) or join the [team video-conference]({{ site.data.languages.conf }}) if you want to talk to us.
+Gezegend ben je, als een dokter, een verpleegkundige of een ambtenaar van volksgezondheid bent. We hopen jouw werk de komende maanden te vergemakkelijken. Lees de site door en laat ons weten of je opmerkingen hebt. 
+Dit geldt trouwens voor iedereen die iets toe te voegen heeft. Ofwel [bestand een probleem](https://github.com/covid-at-home/covid-at-home.github.io/issues/new), [mail ons](mailto:team@covid-at-home.info) of neem deel aan de [team video-conferentie]({{ site.data.languages.conf }}) als je met ons wilt praten.
 
-#### Proofread
+##### Proeflezen
 
-We guarantee there will be plenty of typos, failed sentences and worse. Please briefly [file an issue](https://github.com/covid-at-home/covid-at-home.github.io/issues/new) and we'll fix it.
+We garanderen dat er genoeg tikfouten, mislukte zinnen en erger voorkomen. Graag kort [bestand een probleem](https://github.com/covid-at-home/covid-at-home.github.io/issues/new) en we lossen het op.
 
-#### Alternative medicine
+##### Alternatieve geneeskunde
 
-If you would like to help us with hints and tips for medicine that is not proven according to peer-reviewed publications and/or not proven to be very very safe, then thank you but no thank you. Please don't take offense but covid-at-home stands proudly with science on this one. 
+Als u ons wilt helpen met hints en tips voor medicijnen die niet bewezen zijn volgens peer-reviewed publicaties, en/of niet bewezen is heel erg veilig te zijn, dank u wel maar liever niet. 
+We willen niemand voor het hoofd stoten, maar covid-at-home gaat prat op de wetenschap.

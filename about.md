@@ -1,8 +1,8 @@
 ## Over covid-at-home.info
 
-Deze site is begonnen als een particulier initiatief van Rop Gonggrijp en Vera Wilde die veel van het eerste onderzoek hebben gedaan en de eerste teksten hebben geschreven. Al snel hielpen een aantal vrienden door het proeflezen, vertalen en het leveren van nuttige correcties en aanvullingen. Het wordt steeds meer een gecrowdsourcde gids die we met z'n allen maken.
+Deze site is opgezet als een particulier initiatief van Rop Gonggrijp en Vera Wilde die veel vooronderzoek hebben gedaan en de primaire teksten hebben geschreven. Al snel hielpen een aantal vrienden door het proeflezen, vertalen en het leveren van nuttige correcties en aanvullingen. Het heeft zich ontwikkeld tot een opensource gids die we met z'n allen maken.
 
-Het doel van covid-thuis is om (in beknopte vorm) te delen wat we hebben geleerd en no-nonsense praktische informatie te geven in de omgang met de COVID-19 pandemie op een open en niet-commerciële basis. De belangrijkste veronderstelling is dat COVID-19 in ieder geval op sommige plaatsen het zorgsysteem tijdelijk zal overbelasten, dus hoe meer mensen iets weten over de zorg voor zieke mensen thuis, hoe minder mensen onnodig bij de huisarts en in de ziekenhuizen zullen komen opdagen. Tegelijkertijd moeten mensen nog steeds weten wanneer patiënten medische hulp nodig hebben. 
+Het doel van covid-thuis is om (in beknopte vorm) te delen wat we hebben geleerd en op een no-nonsense manier praktische informatie te verschaffen over de omgang met omgang met de COVID-19 pandemie op een open- en niet-commerciële basis. Het voornaamste uitgangspunt is dat COVID-19 in ieder geval op sommige plaatsen het zorgsysteem tijdelijk zal overbelasten, dus hoe meer mensen iets weten over de zorg voor zieke mensen thuis, des te minder mensen zullen onnodig bij de huisarts en in de ziekenhuizen langs gaan. Tegelijkertijd moet het inzichtelijk zijn wanneer patiënten medische hulp nodig hebben. 
 
 Wil je helpen? Fijn! We hebben daar een [hele sectie](/help) aan gewijd.
 
