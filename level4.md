@@ -28,7 +28,7 @@ Als de patiënt of jijzelf last hebt van kortademigheid of moeizame ademhaling, 
 
 Als je een saturatiemeter, ook wel pulse oxymeter, hebt (zie [winkelpagina](/shopping)), gebruik die dan. Elke zuurstofverzadiging van minder dan 95% kan wijzen op een ademhalingsprobleem. Als op een bepaald moment de **lippen of vingertoppen van de patiënt blauw** worden (of zelfs licht blauw) (cyanose genoemd), bel dan een ambulance! Als de saturatie minder dan 96% is, breng dan frisse lucht in de kamer van de patiënt en warm hem of haar op.
 
-![](/beeld/cyanose.png)
+![](/images/cyanosis.png)
 
 (Bel ook een dokter als de vingers, tenen of lippen minder blauw worden dan dit...)
 
@@ -38,7 +38,7 @@ Als de huid van de patiënt een netvormige of kanten paarse verkleuring krijgt (
 
 ### Zeer lage bloeddruk
 
-Bloeddruk lager dan de ondergrens van het normale bereik (90 mmHg systolisch, 60 mmHg diastolisch) is reden tot bezorgdheid. Merk op dat de bloeddruk als twee getallen komt, de systolische / bovendruk en diastolische /onderdruk. Als je een eenvoudig automatisch apparaat hebt om de bloeddruk te meten dan geeft het je deze getallen. Dus als je een apparaat hebt, noteer dan de systolische / bovendruk op het [dagboek formulier](/images/covid-diary.pdf).
+Bloeddruk lager dan de ondergrens van het normale bereik (90 mmHg systolisch, 60 mmHg diastolisch) is reden tot bezorgdheid. Merk op dat de bloeddruk als twee getallen komt, de systolische / bovendruk en diastolische / onderdruk. Als je een eenvoudig automatisch apparaat hebt om de bloeddruk te meten dan geeft het je deze getallen. Dus als je een apparaat hebt, noteer dan de systolische / bovendruk op het [dagboek formulier](/images/covid-diary.pdf).
 
 Als je geen apparaat hebt om de bloeddruk te meten of als je moeite hebt om een meting uit te voeren, probeer dan de capillaire navultijd van de patiënt te testen. Controleer dit door zijn of haar vingers plat op een harde ondergrond te leggen. Gebruik je vinger om een van zijn of haar vingernagels van bovenaf aan te drukken. De vingernagel zou kleur moeten verliezen. Controleer hoe lang het duurt voordat de vingernagel weer zijn normale kleur heeft. Het zou 1-2 seconden moeten duren. Langer dan dat kan wijzen op een lage bloeddruk. Het kan ook een symptoom van uitdroging zijn. 
 

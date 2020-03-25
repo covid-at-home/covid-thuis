@@ -17,11 +17,11 @@ Wil je helpen? Ja! Voorkom dubbel werk: begin niet zonder met ons te praten. Nee
 #### Inhoudelijke hulp
 
 Gezegend ben je, als een dokter, een verpleegkundige of een ambtenaar van volksgezondheid bent. We hopen jouw werk de komende maanden te vergemakkelijken. Lees de site door en laat ons weten of je opmerkingen hebt. 
-Dit geldt trouwens voor iedereen die iets toe te voegen heeft. Ofwel [bestand een probleem](https://github.com/covid-at-home/covid-at-home.github.io/issues/new), [mail ons](mailto:team@covid-at-home.info) of neem deel aan de [team video-conferentie]({{ site.data.languages.conf }}) als je met ons wilt praten.
+Dit geldt trouwens voor iedereen die iets toe te voegen heeft. Ofwel [rapporteer een probleem](https://github.com/covid-at-home/covid-at-home.github.io/issues/new), [mail ons](mailto:team@covid-at-home.info) of neem deel aan de [team video-conferentie]({{ site.data.languages.conf }}) als je met ons wilt praten.
 
 ##### Proeflezen
 
-We garanderen dat er genoeg tikfouten, mislukte zinnen en erger voorkomen. Graag kort [bestand een probleem](https://github.com/covid-at-home/covid-at-home.github.io/issues/new) en we lossen het op.
+We garanderen dat er genoeg tikfouten, mislukte zinnen en erger voorkomen. Graag kort [rapporteer een probleem](https://github.com/covid-at-home/covid-at-home.github.io/issues/new) en we lossen het op.
 
 ##### Alternatieve geneeskunde
 
