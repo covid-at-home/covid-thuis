@@ -14,9 +14,9 @@ Deze gids bevat algemene adviezen die op veel plaatsen van toepassing zouden moe
 
 Sommige van de auteurs van deze website staan niet bekend als grote fans van de overheid en het gezag, maar op dit punt is het vertrouwen in de volksgezondheidsinstanties van vitaal belang. Als er discrepanties zijn, vertrouw dan op gerenommeerde bronnen zoals:
 
-* [Rijksinstituut voor Volksgezondheid en Milieu (RIVM)] (https://www.rivm.nl) (Nederland)
-* [Federale overheidsdienst Volksgezondheif (FOD)] (https://www.health.belgium.be/nl) (België)
-* [COVID-19 informatie van de Belgische overheid] (https://www.info-coronavirus.be/nl/) (België)
+* [Rijksinstituut voor Volksgezondheid en Milieu (RIVM)](https://www.rivm.nl) (Nederland)
+* [Federale overheidsdienst Volksgezondheif (FOD)](https://www.health.belgium.be/nl) (België)
+* [COVID-19 informatie van de Belgische overheid](https://www.info-coronavirus.be/nl/) (België)
 * [Europees Centrum voor ziektepreventie en -bestrijding](https://www.ecdc.europa.eu/en) (EU)
 * [Wereldgezondheidsorganisatie](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) (Internationaal)
 * [Centers for Disease Control](https://www.cdc.gov/coronavirus/2019-ncov/index.html) (VS)
