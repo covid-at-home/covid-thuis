@@ -68,6 +68,8 @@ Vergeet niet dat er geen verschil is in potentiële besmettelijkheid tussen vrie
 
 Als je commentaar hebt, een fout ziet, of iets ziet dat net iets beter verwoord kan, klik dan [hier](https://github.com/covid-at-home/covid-at-home.github.io/issues/new) om een "issue" te openen, wij fixen het dan. Deze site bestaat omdat [heel veel mensen](/about) geholpen hebben om hem beter te maken. 
 
+{{ site.data.tags.breakout.end }}
+
 &nbsp; 
 
 {% include_relative level1.md %}
