@@ -39,7 +39,7 @@ Hier heb je aktuele lokale informatie nodig. Het zou zo maar kunnen dat je tijde
 
 #### Blijf gezond
 
-![](/images/situps.png)
+![](/assets/images/situps.png)
 
 Je kunt veel doen om zo gezond mogelijk te blijven:
 

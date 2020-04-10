@@ -1,6 +1,6 @@
 ## Niveau 2 -- Opkomende Symptomen
 
-![](/images/sneezing-emoji.png)
+![](/assets/images/sneezing-emoji.png)
 
 Let op als u last heeft van een van de volgende opkomende symptomen:
 
@@ -53,7 +53,7 @@ Schrijf alle symptomen op die de patiënt heeft. Als hij of zij pijn heeft, waar
 
 Paracetamol is een goede keuze voor koorts- en pijnbestrijding. Het bijhouden van een ziektedagboek helpt ook om bij te houden hoeveel u wanneer heeft genomen. Dat helpt om ervoor te zorgen dat u de koorts adequaat behandelt zonder meer dan de aanbevolen hoeveelheid in een periode van 24 uur in te nemen.
 
-[![](/images/diary-small-slanted.png)](/diary)
+[![](/assets/images/diary-small-slanted.png)](/diary)
 
 ##### Printbaar ziektedagboek
 

@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+remote_theme: covid-at-home/common
 title: COVID thuis
 description: Thuis voor een COVID patient zorgen
 url: https://covid-thuis.info

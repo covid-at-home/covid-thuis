@@ -14,11 +14,11 @@ De informatie op deze website is ter informatie en kan adviezen van artsen ander
 
 Toen we in de tweede week van maart 2020 in Berlijn, Duitsland, begonnen te schrijven voor deze site, was veel over het virus nog onduidelijk maar het aantal besmettingen en doden nam gestaag toe, het meest recentelijk in Italië. Hoewel het nu niet - en ook nooit - een goed moment is om in paniek te raken, denken we wel dat het nu tijd is om na te denken en ons voor te bereiden.
 
-![](/images/virus.png)
+![](/assets/images/virus.png)
 
 Deze gids is gebaseerd op de veronderstelling dat in de komende maanden meer mensen dan normaal ziek worden of zieke mensen in hun directe omgeving zullen hebben. Laten we allemaal hopen op het beste, maar we gaan ervan uit dat artsen en ziekenhuizen het erg druk zullen hebben, en mogelijk overbelast raken. We moeten de mogelijkheid onder ogen zien dat sommige mensen die normaal gesproken onder medisch toezicht worden verzorgd, nu thuis moeten worden verzorgd.  We hopen dat deze informatie hier enig vertrouwen schept in de aanpak van deze ziekte en dat het de belasting voor artsen en zorgpersoneel zal verminderen. Die zullen het de komende weken en maanden behoorlijk druk hebben, zoals het er nu uitziet. Tegelijkertijd hopen we je informatie te geven die je kan helpen te bepalen wanneer het tijd is om professionele medische hulp in te schakelen. Het kan de komende tijd helpen om veel mensen in staat te stellen om dat evenwicht te bereiken.
 
-[![](/images/treat-at-home.png)](https://www.statnews.com/2020/03/21/coronavirus-plea-from-italy-treat-patients-at-home/)
+[![](/assets/images/treat-at-home.png)](https://www.statnews.com/2020/03/21/coronavirus-plea-from-italy-treat-patients-at-home/)
 
 &nbsp;
 

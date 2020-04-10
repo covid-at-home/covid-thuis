@@ -6,7 +6,7 @@ Als alle goede zorg in Niveau 2 niet heeft gewerkt en het steeds erger wordt bet
 
 Het is belangrijk om andere mensen om je heen te vertellen dat je echt ziek bent en vooral in bed ligt. Praat met iemand die je vertrouwt. Overleg over hoe ze mogelijk voor je zouden kunnen zorgen. Laat deze persoon of deze mensen dit document lezen. Als je mensen in je omgeving hebt die al COVID-19 hebben gehad (iets wat in de loop van de tijd steeds vaker zal voorkomen), dan zullen zij uiteraard de beste zorgverleners zijn, omdat ze waarschijnlijk COVID-19-immuun zijn. Probeer te beoordelen wat het meest verantwoord is in jouw omstandigheden. Wacht hiermee in ieder geval niet tot het allerlaatste moment, want wanneer de ziekte voortschrijdt, kun je in ademnood komen, wat onvermijdelijk ook je vermogen om te praten en helder te denken zal aantasten.
 
-![](/images/sick-in-bed.png)
+![](/assets/images/sick-in-bed.png)
 
 ### In ieder geval
 
@@ -36,7 +36,7 @@ Wat je kunt doen:
 
 #### Ziektedagboek
 
-Zoals vermeld in de vorige sectie, kunt je dit [afdrukbaar formulier] (/images/covid-diary.pdf) voor het ziektedagboek gebruiken of zelf iets maken.
+Zoals vermeld in de vorige sectie, kunt je dit [afdrukbaar formulier] (/assets/images/covid-diary.pdf) voor het ziektedagboek gebruiken of zelf iets maken.
 
 Let in dit stadium vooral op symptomen die op een verslechtering van de toestand kunnen wijzen. Let onder andere op duizeligheid of een snelle hartslag (drink meer en eet iets als je kunt), snelle ademhaling (til je hoofd iets op als je ligt of laat het richting tafel zakken als je zit om makkelijker te kunnen ademen), let ook op een blauwe tint aan de vingertoppen of lippen (cyanose - zorg voor frisse lucht, zorg dat je warm wordt, en controleer de zuurstofvoorziening in het bloed als dat mogelijk is. Wanneer de cyanose niet direct overgaat neem dan contact op met een arts). Lees het volgende gedeelte voor meer details. Overweeg het gebruik van ontspanningstechnieken om een snelle ademhaling of hartslag door angst of onrust te vertragen: Luister naar rustgevende muziek, neem online of via de telefoon contact op met een vriend(in), of kijk of je je ademhaling kunt vertragen en je hartslag kunt verlagen door langzaam maar krachtig uit te ademen even te wachten en daarna rustig in te ademen. (Tel tijdens het ademen. Sommige mensen gebruiken 4-7-8 tellen en anderen geven de voorkeur aan 5-2-5 om hun inademen-vasthouden-uitademen patroon te vertragen).
 

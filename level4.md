@@ -20,7 +20,7 @@ Tel de ademhalingen per minuut door uw hand dicht genoeg bij de patiënt te houd
 
 Onmiddellijke thuiszorg bij ademhalingsproblemen kan bestaan uit het ventileren / luchten van de kamer van de patiënt en het stutten van hem of haar zodat hij of zij rechtop in een comfortabele rustpositie kan zitten. Het is ook een goed idee om het hoofdzijde van het bed omhoog te brengen om te slapen als dat mogelijk is en er zijn enkele slaapposities die de ademhaling kunnen vergemakkelijken (zie Niveau 3, Verzorgingswerk).
 
-![](/images/dyspnoe.png)
+![](/assets/images/dyspnoe.png)
 
 Als de patiënt of jijzelf last hebt van kortademigheid of moeizame ademhaling, vraag dan medisch advies. Zoek hulp. 
 
@@ -28,17 +28,17 @@ Als de patiënt of jijzelf last hebt van kortademigheid of moeizame ademhaling, 
 
 Als je een saturatiemeter, ook wel pulse oxymeter, hebt (zie [winkelpagina](/shopping)), gebruik die dan. Elke zuurstofverzadiging van minder dan 95% kan wijzen op een ademhalingsprobleem. Als op een bepaald moment de **lippen of vingertoppen van de patiënt blauw** worden (of zelfs licht blauw) (cyanose genoemd), bel dan een ambulance! Als de saturatie minder dan 96% is, breng dan frisse lucht in de kamer van de patiënt en warm hem of haar op.
 
-![](/images/cyanosis.png)
+![](/assets/images/cyanosis.png)
 
 (Bel ook een dokter als de vingers, tenen of lippen minder blauw worden dan dit...)
 
 Als de huid van de patiënt een netvormige of kanten paarse verkleuring krijgt (ook wel livedo reticularis genoemd) zoals hieronder (en dat is niet gebruikelijk voor deze patiënt), dan is dat ook een reden om hulp in te roepen.
 
-![](/images/livedo-reticularis.png)
+![](/assets/images/livedo-reticularis.png)
 
 ### Zeer lage bloeddruk
 
-Bloeddruk lager dan de ondergrens van het normale bereik (90 mmHg systolisch, 60 mmHg diastolisch) is reden tot bezorgdheid. Merk op dat de bloeddruk als twee getallen komt, de systolische / bovendruk en diastolische / onderdruk. Als je een eenvoudig automatisch apparaat hebt om de bloeddruk te meten dan geeft het je deze getallen. Dus als je een apparaat hebt, noteer dan de systolische / bovendruk op het [dagboek formulier](/images/covid-diary.pdf).
+Bloeddruk lager dan de ondergrens van het normale bereik (90 mmHg systolisch, 60 mmHg diastolisch) is reden tot bezorgdheid. Merk op dat de bloeddruk als twee getallen komt, de systolische / bovendruk en diastolische / onderdruk. Als je een eenvoudig automatisch apparaat hebt om de bloeddruk te meten dan geeft het je deze getallen. Dus als je een apparaat hebt, noteer dan de systolische / bovendruk op het [dagboek formulier](/assets/images/covid-diary.pdf).
 
 Als je geen apparaat hebt om de bloeddruk te meten of als je moeite hebt om een meting uit te voeren, probeer dan de capillaire navultijd van de patiënt te testen. Controleer dit door zijn of haar vingers plat op een harde ondergrond te leggen. Gebruik je vinger om een van zijn of haar vingernagels van bovenaf aan te drukken. De vingernagel zou kleur moeten verliezen. Controleer hoe lang het duurt voordat de vingernagel weer zijn normale kleur heeft. Het zou 1-2 seconden moeten duren. Langer dan dat kan wijzen op een lage bloeddruk. Het kan ook een symptoom van uitdroging zijn. 
 

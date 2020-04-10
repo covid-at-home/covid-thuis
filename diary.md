@@ -2,7 +2,7 @@
 
 We hebben een voorbeeld gemaakt van hoe een dagboekpagina in je COVID-dagboek eruit zou kunnen zien. Het lijkt veel op de informatie over patiënten die bijgehouden wordt in het ziekenhuis. Het lijkt misschien een beetje overdreven, maar het stelt je in staat om bij te houden hoe het met iemand gaat. Dan kun je als je naar een arts of het ziekenhuis gaat de gegevens die je hebt bijgehouden overhandigen in een formaat dat artsen graag willen lezen. Print gewoon een van deze voor elke dag dat de patiënt ziek is. Druk gewoon 20 of 30 pagina's vantevoren uit. Dan kan je er niet te laat achter komen dat het papier of de inkt of toner op is. Maak je geen zorgen als je geen apparatuur hebt om al deze metingen te doen. (Hoewel deze meetapparatuur niet duur is. Het kan echt geen kwaad om in huis te hebben, zie de [winkelpagina](/shopping)).
 
-<a href="/images/covid-diary.pdf"><img style="border: 2px massief zwart; druppelschaduw (16px 16px 10px zwart)" src="/images/covid-diary.png"></a>
+<a href="/assets/images/covid-diary.pdf"><img style="border: 2px massief zwart; druppelschaduw (16px 16px 10px zwart)" src="/assets/images/covid-diary.png"></a>
 
 (klik op de afbeelding om de PDF van het dagboek af te drukken)
 
